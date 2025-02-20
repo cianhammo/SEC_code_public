@@ -629,3 +629,872 @@
 2025-02-20 17:47:33,522 - sec_monitor - INFO - Cumulative stats - Input words: 6568719, Output words: 1529
 2025-02-20 17:47:33,522 - sec_monitor - INFO - Successfully saved/merged output to output/sec_filings.json
 2025-02-20 17:47:33,522 - sec_monitor - INFO - Processing complete. Stats: {'input_words': 6101820, 'output_words': 1316, 'filings_processed': 20}
+2025-02-20 18:04:51,374 - sec_monitor - INFO - Starting SEC filing monitor 
+2025-02-20 18:04:51,374 - sec_monitor - INFO - Loading S&P 500 data...
+2025-02-20 18:04:51,375 - sec_monitor - INFO - Starting S&P 500 data initialization
+2025-02-20 18:04:51,375 - sec_monitor - INFO - Successfully loaded 503 S&P 500 tickers
+2025-02-20 18:04:51,375 - sec_monitor - INFO - Successfully loaded 503 S&P 500 tickers
+2025-02-20 18:04:51,375 - sec_monitor - INFO - Initializing components...
+2025-02-20 18:04:51,375 - sec_monitor - INFO - Initializing components
+2025-02-20 18:04:51,375 - sec_monitor - INFO - SEC fetcher initialized
+2025-02-20 18:04:51,375 - sec_monitor - INFO - Filing analyzer initialized
+2025-02-20 18:04:51,376 - sec_monitor - INFO - Alpaca clients initialized
+2025-02-20 18:04:51,376 - sec_monitor - INFO - All components initialized successfully
+2025-02-20 18:04:51,377 - sec_monitor - INFO - Found JSON file from today
+2025-02-20 18:04:51,377 - sec_monitor - INFO - Found 0 previously processed filings
+2025-02-20 18:04:51,377 - sec_monitor - INFO - Found 0 previously processed filings today
+2025-02-20 18:04:51,377 - sec_monitor - INFO - Fetching SEC filings...
+2025-02-20 18:05:08,149 - sec_monitor - INFO - No more entries found
+2025-02-20 18:05:08,149 - sec_monitor - INFO - Completed fetching. Found 116 total filings
+2025-02-20 18:05:08,149 - sec_monitor - INFO - Found 21 new interesting filings
+2025-02-20 18:05:08,149 - sec_monitor - INFO - Found 21 new filings to process
+2025-02-20 18:05:08,149 - sec_monitor - INFO - Processing filing 1/21: VMC
+2025-02-20 18:08:37,105 - sec_monitor - INFO - ==================================================
+2025-02-20 18:08:37,106 - sec_monitor - INFO - Processing first chunk
+2025-02-20 18:08:37,106 - sec_monitor - INFO - Timestamp: 2025-02-20 18:08:37
+2025-02-20 18:08:37,726 - sec_monitor - INFO - token percentage = 28%
+2025-02-20 18:08:37,726 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:08:37,726 - sec_monitor - INFO - Timestamp: 2025-02-20 18:08:37
+2025-02-20 18:08:47,793 - sec_monitor - INFO - API call successful
+2025-02-20 18:09:17,823 - sec_monitor - INFO - ==================================================
+2025-02-20 18:09:17,823 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:09:17,824 - sec_monitor - INFO - Timestamp: 2025-02-20 18:09:17
+2025-02-20 18:09:18,131 - sec_monitor - INFO - token percentage = 60%
+2025-02-20 18:09:18,131 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:09:18,131 - sec_monitor - INFO - Timestamp: 2025-02-20 18:09:18
+2025-02-20 18:09:37,158 - sec_monitor - INFO - API call successful
+2025-02-20 18:10:07,187 - sec_monitor - INFO - ==================================================
+2025-02-20 18:10:07,188 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:10:07,188 - sec_monitor - INFO - Timestamp: 2025-02-20 18:10:07
+2025-02-20 18:10:07,518 - sec_monitor - INFO - token percentage = 58%
+2025-02-20 18:10:07,518 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:10:07,518 - sec_monitor - INFO - Timestamp: 2025-02-20 18:10:07
+2025-02-20 18:10:25,403 - sec_monitor - INFO - API call successful
+2025-02-20 18:10:55,417 - sec_monitor - INFO - ==================================================
+2025-02-20 18:10:55,417 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:10:55,417 - sec_monitor - INFO - Timestamp: 2025-02-20 18:10:55
+2025-02-20 18:10:55,723 - sec_monitor - INFO - token percentage = 60%
+2025-02-20 18:10:55,724 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:10:55,724 - sec_monitor - INFO - Timestamp: 2025-02-20 18:10:55
+2025-02-20 18:11:17,966 - sec_monitor - INFO - API call successful
+2025-02-20 18:11:47,996 - sec_monitor - INFO - ==================================================
+2025-02-20 18:11:47,996 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:11:47,996 - sec_monitor - INFO - Timestamp: 2025-02-20 18:11:47
+2025-02-20 18:11:48,361 - sec_monitor - INFO - token percentage = 60%
+2025-02-20 18:11:48,362 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:11:48,362 - sec_monitor - INFO - Timestamp: 2025-02-20 18:11:48
+2025-02-20 18:12:40,516 - sec_monitor - INFO - API call successful
+2025-02-20 18:13:10,536 - sec_monitor - INFO - ==================================================
+2025-02-20 18:13:10,537 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:13:10,537 - sec_monitor - INFO - Timestamp: 2025-02-20 18:13:10
+2025-02-20 18:13:10,884 - sec_monitor - INFO - token percentage = 59%
+2025-02-20 18:13:10,884 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:13:10,884 - sec_monitor - INFO - Timestamp: 2025-02-20 18:13:10
+2025-02-20 18:13:28,954 - sec_monitor - INFO - API call successful
+2025-02-20 18:13:58,984 - sec_monitor - INFO - ==================================================
+2025-02-20 18:13:58,985 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:13:58,985 - sec_monitor - INFO - Timestamp: 2025-02-20 18:13:58
+2025-02-20 18:13:59,300 - sec_monitor - INFO - token percentage = 50%
+2025-02-20 18:13:59,300 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:13:59,300 - sec_monitor - INFO - Timestamp: 2025-02-20 18:13:59
+2025-02-20 18:14:15,018 - sec_monitor - INFO - API call successful
+2025-02-20 18:14:45,048 - sec_monitor - INFO - ==================================================
+2025-02-20 18:14:45,049 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:14:45,049 - sec_monitor - INFO - Timestamp: 2025-02-20 18:14:45
+2025-02-20 18:14:45,709 - sec_monitor - INFO - token percentage = 26%
+2025-02-20 18:14:45,709 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:14:45,709 - sec_monitor - INFO - Timestamp: 2025-02-20 18:14:45
+2025-02-20 18:14:54,656 - sec_monitor - INFO - API call successful
+2025-02-20 18:15:24,687 - sec_monitor - INFO - ==================================================
+2025-02-20 18:15:24,687 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:15:24,687 - sec_monitor - INFO - Timestamp: 2025-02-20 18:15:24
+2025-02-20 18:15:25,132 - sec_monitor - INFO - token percentage = 37%
+2025-02-20 18:15:25,132 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:15:25,132 - sec_monitor - INFO - Timestamp: 2025-02-20 18:15:25
+2025-02-20 18:15:36,947 - sec_monitor - INFO - API call successful
+2025-02-20 18:16:06,961 - sec_monitor - INFO - ==================================================
+2025-02-20 18:16:06,961 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:16:06,961 - sec_monitor - INFO - Timestamp: 2025-02-20 18:16:06
+2025-02-20 18:16:07,560 - sec_monitor - INFO - token percentage = 25%
+2025-02-20 18:16:07,560 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:16:07,560 - sec_monitor - INFO - Timestamp: 2025-02-20 18:16:07
+2025-02-20 18:16:16,012 - sec_monitor - INFO - API call successful
+2025-02-20 18:16:46,014 - sec_monitor - INFO - ==================================================
+2025-02-20 18:16:46,014 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:16:46,014 - sec_monitor - INFO - Timestamp: 2025-02-20 18:16:46
+2025-02-20 18:16:46,448 - sec_monitor - INFO - token percentage = 40%
+2025-02-20 18:16:46,448 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:16:46,448 - sec_monitor - INFO - Timestamp: 2025-02-20 18:16:46
+2025-02-20 18:16:58,644 - sec_monitor - INFO - API call successful
+2025-02-20 18:17:28,667 - sec_monitor - INFO - ==================================================
+2025-02-20 18:17:28,667 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:17:28,667 - sec_monitor - INFO - Timestamp: 2025-02-20 18:17:28
+2025-02-20 18:17:28,947 - sec_monitor - INFO - token percentage = 63%
+2025-02-20 18:17:28,948 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:17:28,948 - sec_monitor - INFO - Timestamp: 2025-02-20 18:17:28
+2025-02-20 18:17:48,346 - sec_monitor - INFO - API call successful
+2025-02-20 18:18:18,376 - sec_monitor - INFO - ==================================================
+2025-02-20 18:18:18,376 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:18:18,376 - sec_monitor - INFO - Timestamp: 2025-02-20 18:18:18
+2025-02-20 18:18:18,708 - sec_monitor - INFO - token percentage = 63%
+2025-02-20 18:18:18,709 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:18:18,709 - sec_monitor - INFO - Timestamp: 2025-02-20 18:18:18
+2025-02-20 18:18:38,424 - sec_monitor - INFO - API call successful
+2025-02-20 18:19:08,455 - sec_monitor - INFO - ==================================================
+2025-02-20 18:19:08,455 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:19:08,455 - sec_monitor - INFO - Timestamp: 2025-02-20 18:19:08
+2025-02-20 18:19:08,729 - sec_monitor - INFO - token percentage = 63%
+2025-02-20 18:19:08,729 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:19:08,730 - sec_monitor - INFO - Timestamp: 2025-02-20 18:19:08
+2025-02-20 18:19:28,164 - sec_monitor - INFO - API call successful
+2025-02-20 18:19:58,189 - sec_monitor - INFO - ==================================================
+2025-02-20 18:19:58,190 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:19:58,190 - sec_monitor - INFO - Timestamp: 2025-02-20 18:19:58
+2025-02-20 18:19:58,508 - sec_monitor - INFO - token percentage = 63%
+2025-02-20 18:19:58,509 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:19:58,509 - sec_monitor - INFO - Timestamp: 2025-02-20 18:19:58
+2025-02-20 18:20:17,845 - sec_monitor - INFO - API call successful
+2025-02-20 18:20:47,850 - sec_monitor - INFO - ==================================================
+2025-02-20 18:20:47,851 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:20:47,851 - sec_monitor - INFO - Timestamp: 2025-02-20 18:20:47
+2025-02-20 18:20:48,104 - sec_monitor - INFO - token percentage = 57%
+2025-02-20 18:20:48,104 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:20:48,104 - sec_monitor - INFO - Timestamp: 2025-02-20 18:20:48
+2025-02-20 18:21:05,847 - sec_monitor - INFO - API call successful
+2025-02-20 18:21:35,876 - sec_monitor - INFO - ==================================================
+2025-02-20 18:21:35,877 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:21:35,877 - sec_monitor - INFO - Timestamp: 2025-02-20 18:21:35
+2025-02-20 18:21:36,332 - sec_monitor - INFO - token percentage = 31%
+2025-02-20 18:21:36,332 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:21:36,332 - sec_monitor - INFO - Timestamp: 2025-02-20 18:21:36
+2025-02-20 18:21:46,499 - sec_monitor - INFO - API call successful
+2025-02-20 18:22:16,529 - sec_monitor - INFO - ==================================================
+2025-02-20 18:22:16,529 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:22:16,529 - sec_monitor - INFO - Timestamp: 2025-02-20 18:22:16
+2025-02-20 18:22:17,245 - sec_monitor - INFO - token percentage = 32%
+2025-02-20 18:22:17,245 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:22:17,245 - sec_monitor - INFO - Timestamp: 2025-02-20 18:22:17
+2025-02-20 18:22:27,812 - sec_monitor - INFO - API call successful
+2025-02-20 18:22:57,842 - sec_monitor - INFO - ==================================================
+2025-02-20 18:22:57,843 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:22:57,843 - sec_monitor - INFO - Timestamp: 2025-02-20 18:22:57
+2025-02-20 18:22:58,189 - sec_monitor - INFO - token percentage = 49%
+2025-02-20 18:22:58,190 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:22:58,190 - sec_monitor - INFO - Timestamp: 2025-02-20 18:22:58
+2025-02-20 18:23:12,811 - sec_monitor - INFO - API call successful
+2025-02-20 18:23:42,841 - sec_monitor - INFO - ==================================================
+2025-02-20 18:23:42,842 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:23:42,842 - sec_monitor - INFO - Timestamp: 2025-02-20 18:23:42
+2025-02-20 18:23:43,073 - sec_monitor - INFO - token percentage = 62%
+2025-02-20 18:23:43,073 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:23:43,073 - sec_monitor - INFO - Timestamp: 2025-02-20 18:23:43
+2025-02-20 18:24:02,014 - sec_monitor - INFO - API call successful
+2025-02-20 18:24:32,044 - sec_monitor - INFO - ==================================================
+2025-02-20 18:24:32,044 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:24:32,045 - sec_monitor - INFO - Timestamp: 2025-02-20 18:24:32
+2025-02-20 18:24:32,302 - sec_monitor - INFO - token percentage = 59%
+2025-02-20 18:24:32,302 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:24:32,302 - sec_monitor - INFO - Timestamp: 2025-02-20 18:24:32
+2025-02-20 18:24:49,819 - sec_monitor - INFO - API call successful
+2025-02-20 18:25:19,849 - sec_monitor - INFO - ==================================================
+2025-02-20 18:25:19,849 - sec_monitor - INFO - Processing last chunk
+2025-02-20 18:25:19,850 - sec_monitor - INFO - Timestamp: 2025-02-20 18:25:19
+2025-02-20 18:25:19,942 - sec_monitor - INFO - token percentage = 17%
+2025-02-20 18:25:19,943 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:25:19,943 - sec_monitor - INFO - Timestamp: 2025-02-20 18:25:19
+2025-02-20 18:25:25,419 - sec_monitor - INFO - API call successful
+2025-02-20 18:25:25,420 - sec_monitor - INFO - Making combine API call - Attempt 1/3
+2025-02-20 18:25:25,420 - sec_monitor - INFO - Timestamp: 2025-02-20 18:25:25
+2025-02-20 18:25:29,680 - sec_monitor - INFO - Combine API call successful
+2025-02-20 18:25:30,681 - sec_monitor - INFO - Processing filing 2/21: AME
+2025-02-20 18:26:36,413 - sec_monitor - INFO - ==================================================
+2025-02-20 18:26:36,413 - sec_monitor - INFO - Processing first chunk
+2025-02-20 18:26:36,413 - sec_monitor - INFO - Timestamp: 2025-02-20 18:26:36
+2025-02-20 18:26:37,433 - sec_monitor - INFO - token percentage = 42%
+2025-02-20 18:26:37,433 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:26:37,433 - sec_monitor - INFO - Timestamp: 2025-02-20 18:26:37
+2025-02-20 18:26:51,857 - sec_monitor - INFO - API call successful
+2025-02-20 18:27:21,887 - sec_monitor - INFO - ==================================================
+2025-02-20 18:27:21,888 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:27:21,888 - sec_monitor - INFO - Timestamp: 2025-02-20 18:27:21
+2025-02-20 18:27:22,507 - sec_monitor - INFO - token percentage = 59%
+2025-02-20 18:27:22,508 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:27:22,508 - sec_monitor - INFO - Timestamp: 2025-02-20 18:27:22
+2025-02-20 18:27:41,004 - sec_monitor - INFO - API call successful
+2025-02-20 18:28:11,033 - sec_monitor - INFO - ==================================================
+2025-02-20 18:28:11,034 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:28:11,034 - sec_monitor - INFO - Timestamp: 2025-02-20 18:28:11
+2025-02-20 18:28:11,929 - sec_monitor - INFO - token percentage = 47%
+2025-02-20 18:28:11,930 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:28:11,930 - sec_monitor - INFO - Timestamp: 2025-02-20 18:28:11
+2025-02-20 18:28:27,340 - sec_monitor - INFO - API call successful
+2025-02-20 18:28:57,360 - sec_monitor - INFO - ==================================================
+2025-02-20 18:28:57,361 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:28:57,361 - sec_monitor - INFO - Timestamp: 2025-02-20 18:28:57
+2025-02-20 18:28:58,057 - sec_monitor - INFO - token percentage = 45%
+2025-02-20 18:28:58,057 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:28:58,057 - sec_monitor - INFO - Timestamp: 2025-02-20 18:28:58
+2025-02-20 18:29:12,025 - sec_monitor - INFO - API call successful
+2025-02-20 18:29:42,056 - sec_monitor - INFO - ==================================================
+2025-02-20 18:29:42,056 - sec_monitor - INFO - Processing last chunk
+2025-02-20 18:29:42,056 - sec_monitor - INFO - Timestamp: 2025-02-20 18:29:42
+2025-02-20 18:29:42,277 - sec_monitor - INFO - token percentage = 32%
+2025-02-20 18:29:42,278 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:29:42,278 - sec_monitor - INFO - Timestamp: 2025-02-20 18:29:42
+2025-02-20 18:29:51,864 - sec_monitor - INFO - API call successful
+2025-02-20 18:29:51,864 - sec_monitor - INFO - Making combine API call - Attempt 1/3
+2025-02-20 18:29:51,864 - sec_monitor - INFO - Timestamp: 2025-02-20 18:29:51
+2025-02-20 18:29:53,235 - sec_monitor - INFO - Combine API call successful
+2025-02-20 18:29:54,236 - sec_monitor - INFO - Processing filing 3/21: BALL
+2025-02-20 18:31:49,509 - sec_monitor - INFO - ==================================================
+2025-02-20 18:31:49,510 - sec_monitor - INFO - Processing first chunk
+2025-02-20 18:31:49,510 - sec_monitor - INFO - Timestamp: 2025-02-20 18:31:49
+2025-02-20 18:31:50,555 - sec_monitor - INFO - token percentage = 42%
+2025-02-20 18:31:50,555 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:31:50,555 - sec_monitor - INFO - Timestamp: 2025-02-20 18:31:50
+2025-02-20 18:32:05,895 - sec_monitor - INFO - API call successful
+2025-02-20 18:32:35,923 - sec_monitor - INFO - ==================================================
+2025-02-20 18:32:35,923 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:32:35,923 - sec_monitor - INFO - Timestamp: 2025-02-20 18:32:35
+2025-02-20 18:32:37,158 - sec_monitor - INFO - token percentage = 53%
+2025-02-20 18:32:37,158 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:32:37,159 - sec_monitor - INFO - Timestamp: 2025-02-20 18:32:37
+2025-02-20 18:32:55,212 - sec_monitor - INFO - API call successful
+2025-02-20 18:33:25,243 - sec_monitor - INFO - ==================================================
+2025-02-20 18:33:25,243 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:33:25,243 - sec_monitor - INFO - Timestamp: 2025-02-20 18:33:25
+2025-02-20 18:33:26,210 - sec_monitor - INFO - token percentage = 46%
+2025-02-20 18:33:26,210 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:33:26,210 - sec_monitor - INFO - Timestamp: 2025-02-20 18:33:26
+2025-02-20 18:33:26,299 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 18:33:26,299 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:33:26,299 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 18:34:26,351 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 18:34:26,352 - sec_monitor - INFO - Timestamp: 2025-02-20 18:34:26
+2025-02-20 18:34:26,439 - sec_monitor - ERROR - API call failed - Attempt 2
+2025-02-20 18:34:26,439 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:34:26,439 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 18:35:26,475 - sec_monitor - INFO - Making API call - Attempt 3/3
+2025-02-20 18:35:26,475 - sec_monitor - INFO - Timestamp: 2025-02-20 18:35:26
+2025-02-20 18:35:26,562 - sec_monitor - ERROR - API call failed - Attempt 3
+2025-02-20 18:35:26,562 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:35:26,562 - sec_monitor - ERROR - Failed to summarize chunk after 3 attempts: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:35:56,592 - sec_monitor - INFO - ==================================================
+2025-02-20 18:35:56,593 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:35:56,593 - sec_monitor - INFO - Timestamp: 2025-02-20 18:35:56
+2025-02-20 18:35:57,217 - sec_monitor - INFO - token percentage = 65%
+2025-02-20 18:35:57,217 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:35:57,217 - sec_monitor - INFO - Timestamp: 2025-02-20 18:35:57
+2025-02-20 18:36:18,128 - sec_monitor - INFO - API call successful
+2025-02-20 18:36:48,130 - sec_monitor - INFO - ==================================================
+2025-02-20 18:36:48,130 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:36:48,130 - sec_monitor - INFO - Timestamp: 2025-02-20 18:36:48
+2025-02-20 18:36:49,096 - sec_monitor - INFO - token percentage = 46%
+2025-02-20 18:36:49,096 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:36:49,096 - sec_monitor - INFO - Timestamp: 2025-02-20 18:36:49
+2025-02-20 18:37:05,170 - sec_monitor - INFO - API call successful
+2025-02-20 18:37:35,200 - sec_monitor - INFO - ==================================================
+2025-02-20 18:37:35,200 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:37:35,201 - sec_monitor - INFO - Timestamp: 2025-02-20 18:37:35
+2025-02-20 18:37:36,309 - sec_monitor - INFO - token percentage = 46%
+2025-02-20 18:37:36,309 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:37:36,309 - sec_monitor - INFO - Timestamp: 2025-02-20 18:37:36
+2025-02-20 18:37:51,843 - sec_monitor - INFO - API call successful
+2025-02-20 18:38:21,873 - sec_monitor - INFO - ==================================================
+2025-02-20 18:38:21,873 - sec_monitor - INFO - Processing last chunk
+2025-02-20 18:38:21,873 - sec_monitor - INFO - Timestamp: 2025-02-20 18:38:21
+2025-02-20 18:38:22,467 - sec_monitor - INFO - token percentage = 41%
+2025-02-20 18:38:22,467 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:38:22,467 - sec_monitor - INFO - Timestamp: 2025-02-20 18:38:22
+2025-02-20 18:38:35,712 - sec_monitor - INFO - API call successful
+2025-02-20 18:38:35,712 - sec_monitor - INFO - Making combine API call - Attempt 1/3
+2025-02-20 18:38:35,712 - sec_monitor - INFO - Timestamp: 2025-02-20 18:38:35
+2025-02-20 18:38:37,026 - sec_monitor - INFO - Combine API call successful
+2025-02-20 18:38:38,028 - sec_monitor - INFO - Processing filing 4/21: PWR
+2025-02-20 18:40:14,969 - sec_monitor - INFO - ==================================================
+2025-02-20 18:40:14,970 - sec_monitor - INFO - Processing first chunk
+2025-02-20 18:40:14,970 - sec_monitor - INFO - Timestamp: 2025-02-20 18:40:14
+2025-02-20 18:40:16,140 - sec_monitor - INFO - token percentage = 43%
+2025-02-20 18:40:16,140 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:40:16,140 - sec_monitor - INFO - Timestamp: 2025-02-20 18:40:16
+2025-02-20 18:40:30,857 - sec_monitor - INFO - API call successful
+2025-02-20 18:41:00,888 - sec_monitor - INFO - ==================================================
+2025-02-20 18:41:00,888 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:41:00,888 - sec_monitor - INFO - Timestamp: 2025-02-20 18:41:00
+2025-02-20 18:41:01,453 - sec_monitor - INFO - token percentage = 69%
+2025-02-20 18:41:01,454 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:41:01,454 - sec_monitor - INFO - Timestamp: 2025-02-20 18:41:01
+2025-02-20 18:41:24,448 - sec_monitor - INFO - API call successful
+2025-02-20 18:41:54,478 - sec_monitor - INFO - ==================================================
+2025-02-20 18:41:54,479 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:41:54,479 - sec_monitor - INFO - Timestamp: 2025-02-20 18:41:54
+2025-02-20 18:41:55,308 - sec_monitor - INFO - token percentage = 45%
+2025-02-20 18:41:55,308 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:41:55,309 - sec_monitor - INFO - Timestamp: 2025-02-20 18:41:55
+2025-02-20 18:41:55,387 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 18:41:55,387 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:41:55,387 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 18:42:55,447 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 18:42:55,447 - sec_monitor - INFO - Timestamp: 2025-02-20 18:42:55
+2025-02-20 18:43:10,223 - sec_monitor - INFO - API call successful
+2025-02-20 18:43:40,232 - sec_monitor - INFO - ==================================================
+2025-02-20 18:43:40,232 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:43:40,232 - sec_monitor - INFO - Timestamp: 2025-02-20 18:43:40
+2025-02-20 18:43:41,027 - sec_monitor - INFO - token percentage = 37%
+2025-02-20 18:43:41,027 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:43:41,027 - sec_monitor - INFO - Timestamp: 2025-02-20 18:43:41
+2025-02-20 18:43:53,552 - sec_monitor - INFO - API call successful
+2025-02-20 18:44:23,583 - sec_monitor - INFO - ==================================================
+2025-02-20 18:44:23,583 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:44:23,583 - sec_monitor - INFO - Timestamp: 2025-02-20 18:44:23
+2025-02-20 18:44:24,136 - sec_monitor - INFO - token percentage = 63%
+2025-02-20 18:44:24,136 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:44:24,136 - sec_monitor - INFO - Timestamp: 2025-02-20 18:44:24
+2025-02-20 18:44:24,216 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 18:44:24,216 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:44:24,216 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 18:45:24,231 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 18:45:24,231 - sec_monitor - INFO - Timestamp: 2025-02-20 18:45:24
+2025-02-20 18:45:24,331 - sec_monitor - ERROR - API call failed - Attempt 2
+2025-02-20 18:45:24,331 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:45:24,331 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 18:46:24,388 - sec_monitor - INFO - Making API call - Attempt 3/3
+2025-02-20 18:46:24,389 - sec_monitor - INFO - Timestamp: 2025-02-20 18:46:24
+2025-02-20 18:46:45,201 - sec_monitor - INFO - API call successful
+2025-02-20 18:47:15,231 - sec_monitor - INFO - ==================================================
+2025-02-20 18:47:15,232 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:47:15,232 - sec_monitor - INFO - Timestamp: 2025-02-20 18:47:15
+2025-02-20 18:47:15,935 - sec_monitor - INFO - token percentage = 42%
+2025-02-20 18:47:15,935 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:47:15,935 - sec_monitor - INFO - Timestamp: 2025-02-20 18:47:15
+2025-02-20 18:47:29,916 - sec_monitor - INFO - API call successful
+2025-02-20 18:47:59,946 - sec_monitor - INFO - ==================================================
+2025-02-20 18:47:59,946 - sec_monitor - INFO - Processing last chunk
+2025-02-20 18:47:59,946 - sec_monitor - INFO - Timestamp: 2025-02-20 18:47:59
+2025-02-20 18:48:00,457 - sec_monitor - INFO - token percentage = 48%
+2025-02-20 18:48:00,458 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:48:00,458 - sec_monitor - INFO - Timestamp: 2025-02-20 18:48:00
+2025-02-20 18:48:19,013 - sec_monitor - INFO - API call successful
+2025-02-20 18:48:19,013 - sec_monitor - INFO - Making combine API call - Attempt 1/3
+2025-02-20 18:48:19,014 - sec_monitor - INFO - Timestamp: 2025-02-20 18:48:19
+2025-02-20 18:48:19,087 - sec_monitor - INFO - Combine API call failed - Attempt 1
+2025-02-20 18:48:19,088 - sec_monitor - INFO - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:48:19,088 - sec_monitor - INFO - Sleeping for 30 seconds before retry...
+2025-02-20 18:48:49,118 - sec_monitor - INFO - Making combine API call - Attempt 2/3
+2025-02-20 18:48:49,118 - sec_monitor - INFO - Timestamp: 2025-02-20 18:48:49
+2025-02-20 18:48:50,483 - sec_monitor - INFO - Combine API call successful
+2025-02-20 18:48:51,485 - sec_monitor - INFO - Processing filing 5/21: TER
+2025-02-20 18:52:11,795 - sec_monitor - INFO - ==================================================
+2025-02-20 18:52:11,796 - sec_monitor - INFO - Processing first chunk
+2025-02-20 18:52:11,796 - sec_monitor - INFO - Timestamp: 2025-02-20 18:52:11
+2025-02-20 18:52:12,357 - sec_monitor - INFO - token percentage = 62%
+2025-02-20 18:52:12,357 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:52:12,357 - sec_monitor - INFO - Timestamp: 2025-02-20 18:52:12
+2025-02-20 18:52:32,250 - sec_monitor - INFO - API call successful
+2025-02-20 18:53:02,268 - sec_monitor - INFO - ==================================================
+2025-02-20 18:53:02,268 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:53:02,268 - sec_monitor - INFO - Timestamp: 2025-02-20 18:53:02
+2025-02-20 18:53:03,033 - sec_monitor - INFO - token percentage = 35%
+2025-02-20 18:53:03,033 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:53:03,034 - sec_monitor - INFO - Timestamp: 2025-02-20 18:53:03
+2025-02-20 18:53:14,377 - sec_monitor - INFO - API call successful
+2025-02-20 18:53:44,385 - sec_monitor - INFO - ==================================================
+2025-02-20 18:53:44,385 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:53:44,385 - sec_monitor - INFO - Timestamp: 2025-02-20 18:53:44
+2025-02-20 18:53:45,076 - sec_monitor - INFO - token percentage = 52%
+2025-02-20 18:53:45,077 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:53:45,077 - sec_monitor - INFO - Timestamp: 2025-02-20 18:53:45
+2025-02-20 18:54:01,739 - sec_monitor - INFO - API call successful
+2025-02-20 18:54:31,745 - sec_monitor - INFO - ==================================================
+2025-02-20 18:54:31,745 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:54:31,746 - sec_monitor - INFO - Timestamp: 2025-02-20 18:54:31
+2025-02-20 18:54:32,527 - sec_monitor - INFO - token percentage = 38%
+2025-02-20 18:54:32,527 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:54:32,527 - sec_monitor - INFO - Timestamp: 2025-02-20 18:54:32
+2025-02-20 18:54:32,614 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 18:54:32,614 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:54:32,615 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 18:55:32,675 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 18:55:32,675 - sec_monitor - INFO - Timestamp: 2025-02-20 18:55:32
+2025-02-20 18:55:45,614 - sec_monitor - INFO - API call successful
+2025-02-20 18:56:15,625 - sec_monitor - INFO - ==================================================
+2025-02-20 18:56:15,625 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:56:15,626 - sec_monitor - INFO - Timestamp: 2025-02-20 18:56:15
+2025-02-20 18:56:16,145 - sec_monitor - INFO - token percentage = 72%
+2025-02-20 18:56:16,145 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:56:16,145 - sec_monitor - INFO - Timestamp: 2025-02-20 18:56:16
+2025-02-20 18:56:16,238 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 18:56:16,239 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:56:16,239 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 18:57:16,247 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 18:57:16,247 - sec_monitor - INFO - Timestamp: 2025-02-20 18:57:16
+2025-02-20 18:57:39,849 - sec_monitor - INFO - API call successful
+2025-02-20 18:58:09,876 - sec_monitor - INFO - ==================================================
+2025-02-20 18:58:09,876 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:58:09,876 - sec_monitor - INFO - Timestamp: 2025-02-20 18:58:09
+2025-02-20 18:58:10,493 - sec_monitor - INFO - token percentage = 56%
+2025-02-20 18:58:10,493 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:58:10,494 - sec_monitor - INFO - Timestamp: 2025-02-20 18:58:10
+2025-02-20 18:58:10,590 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 18:58:10,590 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 18:58:10,590 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 18:59:10,618 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 18:59:10,618 - sec_monitor - INFO - Timestamp: 2025-02-20 18:59:10
+2025-02-20 18:59:28,846 - sec_monitor - INFO - API call successful
+2025-02-20 18:59:58,859 - sec_monitor - INFO - ==================================================
+2025-02-20 18:59:58,859 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 18:59:58,859 - sec_monitor - INFO - Timestamp: 2025-02-20 18:59:58
+2025-02-20 18:59:59,613 - sec_monitor - INFO - token percentage = 47%
+2025-02-20 18:59:59,613 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 18:59:59,613 - sec_monitor - INFO - Timestamp: 2025-02-20 18:59:59
+2025-02-20 19:00:15,900 - sec_monitor - INFO - API call successful
+2025-02-20 19:00:45,931 - sec_monitor - INFO - ==================================================
+2025-02-20 19:00:45,931 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:00:45,931 - sec_monitor - INFO - Timestamp: 2025-02-20 19:00:45
+2025-02-20 19:00:46,690 - sec_monitor - INFO - token percentage = 47%
+2025-02-20 19:00:46,691 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:00:46,691 - sec_monitor - INFO - Timestamp: 2025-02-20 19:00:46
+2025-02-20 19:01:02,382 - sec_monitor - INFO - API call successful
+2025-02-20 19:01:32,413 - sec_monitor - INFO - ==================================================
+2025-02-20 19:01:32,413 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:01:32,413 - sec_monitor - INFO - Timestamp: 2025-02-20 19:01:32
+2025-02-20 19:01:33,433 - sec_monitor - INFO - token percentage = 46%
+2025-02-20 19:01:33,434 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:01:33,434 - sec_monitor - INFO - Timestamp: 2025-02-20 19:01:33
+2025-02-20 19:01:33,591 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:01:33,591 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:01:33,591 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:02:33,651 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:02:33,652 - sec_monitor - INFO - Timestamp: 2025-02-20 19:02:33
+2025-02-20 19:02:49,077 - sec_monitor - INFO - API call successful
+2025-02-20 19:03:19,102 - sec_monitor - INFO - ==================================================
+2025-02-20 19:03:19,103 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:03:19,103 - sec_monitor - INFO - Timestamp: 2025-02-20 19:03:19
+2025-02-20 19:03:19,944 - sec_monitor - INFO - token percentage = 46%
+2025-02-20 19:03:19,944 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:03:19,944 - sec_monitor - INFO - Timestamp: 2025-02-20 19:03:19
+2025-02-20 19:03:20,082 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:03:20,082 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:03:20,082 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:04:20,121 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:04:20,122 - sec_monitor - INFO - Timestamp: 2025-02-20 19:04:20
+2025-02-20 19:04:35,855 - sec_monitor - INFO - API call successful
+2025-02-20 19:05:05,885 - sec_monitor - INFO - ==================================================
+2025-02-20 19:05:05,885 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:05:05,886 - sec_monitor - INFO - Timestamp: 2025-02-20 19:05:05
+2025-02-20 19:05:06,587 - sec_monitor - INFO - token percentage = 46%
+2025-02-20 19:05:06,587 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:05:06,587 - sec_monitor - INFO - Timestamp: 2025-02-20 19:05:06
+2025-02-20 19:05:06,696 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:05:06,696 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:05:06,696 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:06:06,709 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:06:06,710 - sec_monitor - INFO - Timestamp: 2025-02-20 19:06:06
+2025-02-20 19:06:22,856 - sec_monitor - INFO - API call successful
+2025-02-20 19:06:52,878 - sec_monitor - INFO - ==================================================
+2025-02-20 19:06:52,878 - sec_monitor - INFO - Processing last chunk
+2025-02-20 19:06:52,879 - sec_monitor - INFO - Timestamp: 2025-02-20 19:06:52
+2025-02-20 19:06:53,536 - sec_monitor - INFO - token percentage = 44%
+2025-02-20 19:06:53,536 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:06:53,537 - sec_monitor - INFO - Timestamp: 2025-02-20 19:06:53
+2025-02-20 19:07:08,642 - sec_monitor - INFO - API call successful
+2025-02-20 19:07:08,643 - sec_monitor - INFO - Making combine API call - Attempt 1/3
+2025-02-20 19:07:08,643 - sec_monitor - INFO - Timestamp: 2025-02-20 19:07:08
+2025-02-20 19:07:10,277 - sec_monitor - INFO - Combine API call successful
+2025-02-20 19:07:11,278 - sec_monitor - INFO - Processing filing 6/21: POOL
+2025-02-20 19:07:42,361 - sec_monitor - INFO - ==================================================
+2025-02-20 19:07:42,362 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:07:42,362 - sec_monitor - INFO - Timestamp: 2025-02-20 19:07:42
+2025-02-20 19:07:42,459 - sec_monitor - INFO - token percentage = 5%
+2025-02-20 19:07:42,460 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:07:42,460 - sec_monitor - INFO - Timestamp: 2025-02-20 19:07:42
+2025-02-20 19:07:45,712 - sec_monitor - INFO - API call successful
+2025-02-20 19:07:46,713 - sec_monitor - INFO - Processing filing 7/21: FI
+2025-02-20 19:09:00,356 - sec_monitor - INFO - ==================================================
+2025-02-20 19:09:00,357 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:09:00,357 - sec_monitor - INFO - Timestamp: 2025-02-20 19:09:00
+2025-02-20 19:09:02,413 - sec_monitor - INFO - token percentage = 42%
+2025-02-20 19:09:02,413 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:09:02,413 - sec_monitor - INFO - Timestamp: 2025-02-20 19:09:02
+2025-02-20 19:09:16,492 - sec_monitor - INFO - API call successful
+2025-02-20 19:09:46,522 - sec_monitor - INFO - ==================================================
+2025-02-20 19:09:46,522 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:09:46,523 - sec_monitor - INFO - Timestamp: 2025-02-20 19:09:46
+2025-02-20 19:09:47,701 - sec_monitor - INFO - token percentage = 48%
+2025-02-20 19:09:47,701 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:09:47,701 - sec_monitor - INFO - Timestamp: 2025-02-20 19:09:47
+2025-02-20 19:10:03,448 - sec_monitor - INFO - API call successful
+2025-02-20 19:10:33,478 - sec_monitor - INFO - ==================================================
+2025-02-20 19:10:33,479 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:10:33,479 - sec_monitor - INFO - Timestamp: 2025-02-20 19:10:33
+2025-02-20 19:10:34,277 - sec_monitor - INFO - token percentage = 42%
+2025-02-20 19:10:34,277 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:10:34,277 - sec_monitor - INFO - Timestamp: 2025-02-20 19:10:34
+2025-02-20 19:10:34,410 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:10:34,410 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:10:34,410 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:11:34,470 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:11:34,470 - sec_monitor - INFO - Timestamp: 2025-02-20 19:11:34
+2025-02-20 19:11:49,959 - sec_monitor - INFO - API call successful
+2025-02-20 19:12:19,970 - sec_monitor - INFO - ==================================================
+2025-02-20 19:12:19,970 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:12:19,971 - sec_monitor - INFO - Timestamp: 2025-02-20 19:12:19
+2025-02-20 19:12:20,630 - sec_monitor - INFO - token percentage = 72%
+2025-02-20 19:12:20,630 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:12:20,630 - sec_monitor - INFO - Timestamp: 2025-02-20 19:12:20
+2025-02-20 19:12:44,362 - sec_monitor - INFO - API call successful
+2025-02-20 19:13:14,392 - sec_monitor - INFO - ==================================================
+2025-02-20 19:13:14,393 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:13:14,393 - sec_monitor - INFO - Timestamp: 2025-02-20 19:13:14
+2025-02-20 19:13:15,407 - sec_monitor - INFO - token percentage = 46%
+2025-02-20 19:13:15,407 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:13:15,407 - sec_monitor - INFO - Timestamp: 2025-02-20 19:13:15
+2025-02-20 19:13:15,487 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:13:15,487 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:13:15,488 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:14:15,499 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:14:15,499 - sec_monitor - INFO - Timestamp: 2025-02-20 19:14:15
+2025-02-20 19:14:30,531 - sec_monitor - INFO - API call successful
+2025-02-20 19:15:00,539 - sec_monitor - INFO - ==================================================
+2025-02-20 19:15:00,539 - sec_monitor - INFO - Processing last chunk
+2025-02-20 19:15:00,539 - sec_monitor - INFO - Timestamp: 2025-02-20 19:15:00
+2025-02-20 19:15:00,998 - sec_monitor - INFO - token percentage = 29%
+2025-02-20 19:15:00,998 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:15:00,998 - sec_monitor - INFO - Timestamp: 2025-02-20 19:15:00
+2025-02-20 19:15:10,207 - sec_monitor - INFO - API call successful
+2025-02-20 19:15:10,207 - sec_monitor - INFO - Making combine API call - Attempt 1/3
+2025-02-20 19:15:10,207 - sec_monitor - INFO - Timestamp: 2025-02-20 19:15:10
+2025-02-20 19:15:11,357 - sec_monitor - INFO - Combine API call successful
+2025-02-20 19:15:12,358 - sec_monitor - INFO - Processing filing 8/21: BAX
+2025-02-20 19:15:43,659 - sec_monitor - INFO - ==================================================
+2025-02-20 19:15:43,659 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:15:43,659 - sec_monitor - INFO - Timestamp: 2025-02-20 19:15:43
+2025-02-20 19:15:43,828 - sec_monitor - INFO - token percentage = 9%
+2025-02-20 19:15:43,828 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:15:43,828 - sec_monitor - INFO - Timestamp: 2025-02-20 19:15:43
+2025-02-20 19:15:47,968 - sec_monitor - INFO - API call successful
+2025-02-20 19:15:48,969 - sec_monitor - INFO - Processing filing 9/21: BLDR
+2025-02-20 19:16:21,377 - sec_monitor - INFO - ==================================================
+2025-02-20 19:16:21,378 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:16:21,378 - sec_monitor - INFO - Timestamp: 2025-02-20 19:16:21
+2025-02-20 19:16:21,514 - sec_monitor - INFO - token percentage = 20%
+2025-02-20 19:16:21,514 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:16:21,514 - sec_monitor - INFO - Timestamp: 2025-02-20 19:16:21
+2025-02-20 19:16:21,591 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:16:21,591 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:16:21,592 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:17:21,625 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:17:21,625 - sec_monitor - INFO - Timestamp: 2025-02-20 19:17:21
+2025-02-20 19:17:31,099 - sec_monitor - INFO - API call successful
+2025-02-20 19:17:32,101 - sec_monitor - INFO - Processing filing 10/21: PWR
+2025-02-20 19:18:06,797 - sec_monitor - INFO - ==================================================
+2025-02-20 19:18:06,797 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:18:06,797 - sec_monitor - INFO - Timestamp: 2025-02-20 19:18:06
+2025-02-20 19:18:07,106 - sec_monitor - INFO - token percentage = 25%
+2025-02-20 19:18:07,106 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:18:07,106 - sec_monitor - INFO - Timestamp: 2025-02-20 19:18:07
+2025-02-20 19:18:16,091 - sec_monitor - INFO - API call successful
+2025-02-20 19:18:17,092 - sec_monitor - INFO - Processing filing 11/21: WMT
+2025-02-20 19:24:49,309 - sec_monitor - ERROR - Error processing filing WMT: 400 Request payload size exceeds the limit: 20971520 bytes.
+2025-02-20 19:24:49,309 - sec_monitor - INFO - Processing filing 12/21: HAS
+2025-02-20 19:25:21,426 - sec_monitor - INFO - ==================================================
+2025-02-20 19:25:21,427 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:25:21,427 - sec_monitor - INFO - Timestamp: 2025-02-20 19:25:21
+2025-02-20 19:25:21,599 - sec_monitor - INFO - token percentage = 25%
+2025-02-20 19:25:21,599 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:25:21,600 - sec_monitor - INFO - Timestamp: 2025-02-20 19:25:21
+2025-02-20 19:25:29,506 - sec_monitor - INFO - API call successful
+2025-02-20 19:25:30,507 - sec_monitor - INFO - Processing filing 13/21: LKQ
+2025-02-20 19:26:01,584 - sec_monitor - INFO - ==================================================
+2025-02-20 19:26:01,585 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:26:01,585 - sec_monitor - INFO - Timestamp: 2025-02-20 19:26:01
+2025-02-20 19:26:01,714 - sec_monitor - INFO - token percentage = 7%
+2025-02-20 19:26:01,714 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:26:01,714 - sec_monitor - INFO - Timestamp: 2025-02-20 19:26:01
+2025-02-20 19:26:06,246 - sec_monitor - INFO - API call successful
+2025-02-20 19:26:07,247 - sec_monitor - INFO - Processing filing 14/21: CNP
+2025-02-20 19:27:26,553 - sec_monitor - INFO - ==================================================
+2025-02-20 19:27:26,553 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:27:26,554 - sec_monitor - INFO - Timestamp: 2025-02-20 19:27:26
+2025-02-20 19:27:26,909 - sec_monitor - INFO - token percentage = 47%
+2025-02-20 19:27:26,909 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:27:26,910 - sec_monitor - INFO - Timestamp: 2025-02-20 19:27:26
+2025-02-20 19:27:27,038 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:27:27,038 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:27:27,038 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:28:27,081 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:28:27,081 - sec_monitor - INFO - Timestamp: 2025-02-20 19:28:27
+2025-02-20 19:28:41,665 - sec_monitor - INFO - API call successful
+2025-02-20 19:29:11,695 - sec_monitor - INFO - ==================================================
+2025-02-20 19:29:11,695 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:29:11,695 - sec_monitor - INFO - Timestamp: 2025-02-20 19:29:11
+2025-02-20 19:29:12,045 - sec_monitor - INFO - token percentage = 52%
+2025-02-20 19:29:12,045 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:29:12,045 - sec_monitor - INFO - Timestamp: 2025-02-20 19:29:12
+2025-02-20 19:29:27,547 - sec_monitor - INFO - API call successful
+2025-02-20 19:29:57,578 - sec_monitor - INFO - ==================================================
+2025-02-20 19:29:57,578 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:29:57,578 - sec_monitor - INFO - Timestamp: 2025-02-20 19:29:57
+2025-02-20 19:29:57,788 - sec_monitor - INFO - token percentage = 51%
+2025-02-20 19:29:57,788 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:29:57,788 - sec_monitor - INFO - Timestamp: 2025-02-20 19:29:57
+2025-02-20 19:30:13,085 - sec_monitor - INFO - API call successful
+2025-02-20 19:30:43,116 - sec_monitor - INFO - ==================================================
+2025-02-20 19:30:43,116 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:30:43,116 - sec_monitor - INFO - Timestamp: 2025-02-20 19:30:43
+2025-02-20 19:30:43,327 - sec_monitor - INFO - token percentage = 50%
+2025-02-20 19:30:43,327 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:30:43,327 - sec_monitor - INFO - Timestamp: 2025-02-20 19:30:43
+2025-02-20 19:30:43,397 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:30:43,397 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:30:43,397 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:31:43,457 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:31:43,457 - sec_monitor - INFO - Timestamp: 2025-02-20 19:31:43
+2025-02-20 19:31:43,536 - sec_monitor - ERROR - API call failed - Attempt 2
+2025-02-20 19:31:43,536 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:31:43,536 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:32:43,580 - sec_monitor - INFO - Making API call - Attempt 3/3
+2025-02-20 19:32:43,581 - sec_monitor - INFO - Timestamp: 2025-02-20 19:32:43
+2025-02-20 19:32:58,267 - sec_monitor - INFO - API call successful
+2025-02-20 19:33:28,281 - sec_monitor - INFO - ==================================================
+2025-02-20 19:33:28,282 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:33:28,282 - sec_monitor - INFO - Timestamp: 2025-02-20 19:33:28
+2025-02-20 19:33:28,487 - sec_monitor - INFO - token percentage = 51%
+2025-02-20 19:33:28,487 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:33:28,487 - sec_monitor - INFO - Timestamp: 2025-02-20 19:33:28
+2025-02-20 19:33:28,704 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:33:28,704 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:33:28,705 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:34:28,761 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:34:28,762 - sec_monitor - INFO - Timestamp: 2025-02-20 19:34:28
+2025-02-20 19:34:43,709 - sec_monitor - INFO - API call successful
+2025-02-20 19:35:13,739 - sec_monitor - INFO - ==================================================
+2025-02-20 19:35:13,739 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:35:13,739 - sec_monitor - INFO - Timestamp: 2025-02-20 19:35:13
+2025-02-20 19:35:14,000 - sec_monitor - INFO - token percentage = 49%
+2025-02-20 19:35:14,001 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:35:14,001 - sec_monitor - INFO - Timestamp: 2025-02-20 19:35:13
+2025-02-20 19:35:28,682 - sec_monitor - INFO - API call successful
+2025-02-20 19:35:58,713 - sec_monitor - INFO - ==================================================
+2025-02-20 19:35:58,713 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:35:58,713 - sec_monitor - INFO - Timestamp: 2025-02-20 19:35:58
+2025-02-20 19:35:59,025 - sec_monitor - INFO - token percentage = 50%
+2025-02-20 19:35:59,025 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:35:59,026 - sec_monitor - INFO - Timestamp: 2025-02-20 19:35:59
+2025-02-20 19:36:14,295 - sec_monitor - INFO - API call successful
+2025-02-20 19:36:44,316 - sec_monitor - INFO - ==================================================
+2025-02-20 19:36:44,316 - sec_monitor - INFO - Processing last chunk
+2025-02-20 19:36:44,316 - sec_monitor - INFO - Timestamp: 2025-02-20 19:36:44
+2025-02-20 19:36:44,444 - sec_monitor - INFO - token percentage = 26%
+2025-02-20 19:36:44,445 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:36:44,445 - sec_monitor - INFO - Timestamp: 2025-02-20 19:36:44
+2025-02-20 19:36:44,526 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:36:44,526 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:36:44,526 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:37:44,569 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:37:44,570 - sec_monitor - INFO - Timestamp: 2025-02-20 19:37:44
+2025-02-20 19:37:44,651 - sec_monitor - ERROR - API call failed - Attempt 2
+2025-02-20 19:37:44,651 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:37:44,652 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:38:44,712 - sec_monitor - INFO - Making API call - Attempt 3/3
+2025-02-20 19:38:44,712 - sec_monitor - INFO - Timestamp: 2025-02-20 19:38:44
+2025-02-20 19:38:52,596 - sec_monitor - INFO - API call successful
+2025-02-20 19:38:52,596 - sec_monitor - INFO - Making combine API call - Attempt 1/3
+2025-02-20 19:38:52,596 - sec_monitor - INFO - Timestamp: 2025-02-20 19:38:52
+2025-02-20 19:38:53,578 - sec_monitor - INFO - Combine API call successful
+2025-02-20 19:38:54,579 - sec_monitor - INFO - Processing filing 15/21: TRGP
+2025-02-20 19:39:27,193 - sec_monitor - INFO - ==================================================
+2025-02-20 19:39:27,194 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:39:27,194 - sec_monitor - INFO - Timestamp: 2025-02-20 19:39:27
+2025-02-20 19:39:27,298 - sec_monitor - INFO - token percentage = 12%
+2025-02-20 19:39:27,298 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:39:27,298 - sec_monitor - INFO - Timestamp: 2025-02-20 19:39:27
+2025-02-20 19:39:27,369 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:39:27,369 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:39:27,369 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:40:27,430 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:40:27,430 - sec_monitor - INFO - Timestamp: 2025-02-20 19:40:27
+2025-02-20 19:40:33,164 - sec_monitor - INFO - API call successful
+2025-02-20 19:40:34,166 - sec_monitor - INFO - Processing filing 16/21: CNP
+2025-02-20 19:54:50,551 - sec_monitor - ERROR - Error processing filing CNP: 400 Request payload size exceeds the limit: 20971520 bytes.
+2025-02-20 19:54:50,551 - sec_monitor - INFO - Processing filing 17/21: NXPI
+2025-02-20 19:57:08,566 - sec_monitor - INFO - ==================================================
+2025-02-20 19:57:08,567 - sec_monitor - INFO - Processing first chunk
+2025-02-20 19:57:08,567 - sec_monitor - INFO - Timestamp: 2025-02-20 19:57:08
+2025-02-20 19:57:09,288 - sec_monitor - INFO - token percentage = 39%
+2025-02-20 19:57:09,289 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:57:09,289 - sec_monitor - INFO - Timestamp: 2025-02-20 19:57:09
+2025-02-20 19:57:21,637 - sec_monitor - INFO - API call successful
+2025-02-20 19:57:51,668 - sec_monitor - INFO - ==================================================
+2025-02-20 19:57:51,668 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:57:51,668 - sec_monitor - INFO - Timestamp: 2025-02-20 19:57:51
+2025-02-20 19:57:52,061 - sec_monitor - INFO - token percentage = 67%
+2025-02-20 19:57:52,061 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:57:52,061 - sec_monitor - INFO - Timestamp: 2025-02-20 19:57:52
+2025-02-20 19:58:13,167 - sec_monitor - INFO - API call successful
+2025-02-20 19:58:43,198 - sec_monitor - INFO - ==================================================
+2025-02-20 19:58:43,198 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 19:58:43,198 - sec_monitor - INFO - Timestamp: 2025-02-20 19:58:43
+2025-02-20 19:58:43,686 - sec_monitor - INFO - token percentage = 49%
+2025-02-20 19:58:43,687 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 19:58:43,687 - sec_monitor - INFO - Timestamp: 2025-02-20 19:58:43
+2025-02-20 19:58:43,875 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 19:58:43,875 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 19:58:43,875 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 19:59:43,921 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 19:59:43,922 - sec_monitor - INFO - Timestamp: 2025-02-20 19:59:43
+2025-02-20 20:00:00,079 - sec_monitor - INFO - API call successful
+2025-02-20 20:00:30,110 - sec_monitor - INFO - ==================================================
+2025-02-20 20:00:30,110 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:00:30,110 - sec_monitor - INFO - Timestamp: 2025-02-20 20:00:30
+2025-02-20 20:00:30,794 - sec_monitor - INFO - token percentage = 35%
+2025-02-20 20:00:30,794 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:00:30,794 - sec_monitor - INFO - Timestamp: 2025-02-20 20:00:30
+2025-02-20 20:00:41,786 - sec_monitor - INFO - API call successful
+2025-02-20 20:01:11,817 - sec_monitor - INFO - ==================================================
+2025-02-20 20:01:11,817 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:01:11,817 - sec_monitor - INFO - Timestamp: 2025-02-20 20:01:11
+2025-02-20 20:01:12,398 - sec_monitor - INFO - token percentage = 34%
+2025-02-20 20:01:12,399 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:01:12,399 - sec_monitor - INFO - Timestamp: 2025-02-20 20:01:12
+2025-02-20 20:01:23,344 - sec_monitor - INFO - API call successful
+2025-02-20 20:01:53,374 - sec_monitor - INFO - ==================================================
+2025-02-20 20:01:53,374 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:01:53,374 - sec_monitor - INFO - Timestamp: 2025-02-20 20:01:53
+2025-02-20 20:01:53,824 - sec_monitor - INFO - token percentage = 43%
+2025-02-20 20:01:53,824 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:01:53,824 - sec_monitor - INFO - Timestamp: 2025-02-20 20:01:53
+2025-02-20 20:02:07,550 - sec_monitor - INFO - API call successful
+2025-02-20 20:02:37,581 - sec_monitor - INFO - ==================================================
+2025-02-20 20:02:37,581 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:02:37,581 - sec_monitor - INFO - Timestamp: 2025-02-20 20:02:37
+2025-02-20 20:02:38,036 - sec_monitor - INFO - token percentage = 57%
+2025-02-20 20:02:38,036 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:02:38,036 - sec_monitor - INFO - Timestamp: 2025-02-20 20:02:38
+2025-02-20 20:02:56,448 - sec_monitor - INFO - API call successful
+2025-02-20 20:03:26,456 - sec_monitor - INFO - ==================================================
+2025-02-20 20:03:26,456 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:03:26,456 - sec_monitor - INFO - Timestamp: 2025-02-20 20:03:26
+2025-02-20 20:03:27,157 - sec_monitor - INFO - token percentage = 35%
+2025-02-20 20:03:27,158 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:03:27,158 - sec_monitor - INFO - Timestamp: 2025-02-20 20:03:27
+2025-02-20 20:03:40,160 - sec_monitor - INFO - API call successful
+2025-02-20 20:04:10,176 - sec_monitor - INFO - ==================================================
+2025-02-20 20:04:10,176 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:04:10,176 - sec_monitor - INFO - Timestamp: 2025-02-20 20:04:10
+2025-02-20 20:04:10,564 - sec_monitor - INFO - token percentage = 51%
+2025-02-20 20:04:10,565 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:04:10,565 - sec_monitor - INFO - Timestamp: 2025-02-20 20:04:10
+2025-02-20 20:04:27,425 - sec_monitor - INFO - API call successful
+2025-02-20 20:04:57,450 - sec_monitor - INFO - ==================================================
+2025-02-20 20:04:57,451 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:04:57,451 - sec_monitor - INFO - Timestamp: 2025-02-20 20:04:57
+2025-02-20 20:04:57,757 - sec_monitor - INFO - token percentage = 69%
+2025-02-20 20:04:57,758 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:04:57,758 - sec_monitor - INFO - Timestamp: 2025-02-20 20:04:57
+2025-02-20 20:05:19,324 - sec_monitor - INFO - API call successful
+2025-02-20 20:05:49,354 - sec_monitor - INFO - ==================================================
+2025-02-20 20:05:49,354 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:05:49,355 - sec_monitor - INFO - Timestamp: 2025-02-20 20:05:49
+2025-02-20 20:05:49,634 - sec_monitor - INFO - token percentage = 68%
+2025-02-20 20:05:49,634 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:05:49,634 - sec_monitor - INFO - Timestamp: 2025-02-20 20:05:49
+2025-02-20 20:05:49,706 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 20:05:49,706 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 20:05:49,706 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 20:06:49,748 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 20:06:49,748 - sec_monitor - INFO - Timestamp: 2025-02-20 20:06:49
+2025-02-20 20:07:10,831 - sec_monitor - INFO - API call successful
+2025-02-20 20:07:40,862 - sec_monitor - INFO - ==================================================
+2025-02-20 20:07:40,862 - sec_monitor - INFO - Processing last chunk
+2025-02-20 20:07:40,862 - sec_monitor - INFO - Timestamp: 2025-02-20 20:07:40
+2025-02-20 20:07:41,008 - sec_monitor - INFO - token percentage = 8%
+2025-02-20 20:07:41,008 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:07:41,008 - sec_monitor - INFO - Timestamp: 2025-02-20 20:07:41
+2025-02-20 20:07:41,075 - sec_monitor - ERROR - API call failed - Attempt 1
+2025-02-20 20:07:41,076 - sec_monitor - ERROR - Error: 429 Resource has been exhausted (e.g. check quota).
+2025-02-20 20:07:41,076 - sec_monitor - INFO - Sleeping for 60 seconds before retry...
+2025-02-20 20:08:41,135 - sec_monitor - INFO - Making API call - Attempt 2/3
+2025-02-20 20:08:41,135 - sec_monitor - INFO - Timestamp: 2025-02-20 20:08:41
+2025-02-20 20:08:44,731 - sec_monitor - INFO - API call successful
+2025-02-20 20:08:44,731 - sec_monitor - INFO - Making combine API call - Attempt 1/3
+2025-02-20 20:08:44,731 - sec_monitor - INFO - Timestamp: 2025-02-20 20:08:44
+2025-02-20 20:08:45,830 - sec_monitor - INFO - Combine API call successful
+2025-02-20 20:08:46,831 - sec_monitor - INFO - Processing filing 18/21: PH
+2025-02-20 20:09:18,401 - sec_monitor - INFO - ==================================================
+2025-02-20 20:09:18,401 - sec_monitor - INFO - Processing first chunk
+2025-02-20 20:09:18,401 - sec_monitor - INFO - Timestamp: 2025-02-20 20:09:18
+2025-02-20 20:09:18,529 - sec_monitor - INFO - token percentage = 6%
+2025-02-20 20:09:18,529 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:09:18,529 - sec_monitor - INFO - Timestamp: 2025-02-20 20:09:18
+2025-02-20 20:09:22,258 - sec_monitor - INFO - API call successful
+2025-02-20 20:09:23,259 - sec_monitor - INFO - Processing filing 19/21: MHK
+2025-02-20 20:10:34,961 - sec_monitor - INFO - ==================================================
+2025-02-20 20:10:34,962 - sec_monitor - INFO - Processing first chunk
+2025-02-20 20:10:34,962 - sec_monitor - INFO - Timestamp: 2025-02-20 20:10:34
+2025-02-20 20:10:35,724 - sec_monitor - INFO - token percentage = 53%
+2025-02-20 20:10:35,725 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:10:35,725 - sec_monitor - INFO - Timestamp: 2025-02-20 20:10:35
+2025-02-20 20:10:53,699 - sec_monitor - INFO - API call successful
+2025-02-20 20:11:23,718 - sec_monitor - INFO - ==================================================
+2025-02-20 20:11:23,718 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:11:23,718 - sec_monitor - INFO - Timestamp: 2025-02-20 20:11:23
+2025-02-20 20:11:24,611 - sec_monitor - INFO - token percentage = 44%
+2025-02-20 20:11:24,611 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:11:24,611 - sec_monitor - INFO - Timestamp: 2025-02-20 20:11:24
+2025-02-20 20:11:39,458 - sec_monitor - INFO - API call successful
+2025-02-20 20:12:09,489 - sec_monitor - INFO - ==================================================
+2025-02-20 20:12:09,489 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:12:09,489 - sec_monitor - INFO - Timestamp: 2025-02-20 20:12:09
+2025-02-20 20:12:10,099 - sec_monitor - INFO - token percentage = 42%
+2025-02-20 20:12:10,100 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:12:10,100 - sec_monitor - INFO - Timestamp: 2025-02-20 20:12:10
+2025-02-20 20:12:23,486 - sec_monitor - INFO - API call successful
+2025-02-20 20:12:53,516 - sec_monitor - INFO - ==================================================
+2025-02-20 20:12:53,516 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:12:53,516 - sec_monitor - INFO - Timestamp: 2025-02-20 20:12:53
+2025-02-20 20:12:54,115 - sec_monitor - INFO - token percentage = 67%
+2025-02-20 20:12:54,115 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:12:54,115 - sec_monitor - INFO - Timestamp: 2025-02-20 20:12:54
+2025-02-20 20:13:15,142 - sec_monitor - INFO - API call successful
+2025-02-20 20:13:45,173 - sec_monitor - INFO - ==================================================
+2025-02-20 20:13:45,173 - sec_monitor - INFO - Processing middle chunk
+2025-02-20 20:13:45,173 - sec_monitor - INFO - Timestamp: 2025-02-20 20:13:45
+2025-02-20 20:13:45,892 - sec_monitor - INFO - token percentage = 41%
+2025-02-20 20:13:45,892 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:13:45,892 - sec_monitor - INFO - Timestamp: 2025-02-20 20:13:45
+2025-02-20 20:13:59,676 - sec_monitor - INFO - API call successful
+2025-02-20 20:14:29,706 - sec_monitor - INFO - ==================================================
+2025-02-20 20:14:29,707 - sec_monitor - INFO - Processing last chunk
+2025-02-20 20:14:29,707 - sec_monitor - INFO - Timestamp: 2025-02-20 20:14:29
+2025-02-20 20:14:30,813 - sec_monitor - INFO - token percentage = 44%
+2025-02-20 20:14:30,813 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:14:30,813 - sec_monitor - INFO - Timestamp: 2025-02-20 20:14:30
+2025-02-20 20:14:44,524 - sec_monitor - INFO - API call successful
+2025-02-20 20:14:44,525 - sec_monitor - INFO - Making combine API call - Attempt 1/3
+2025-02-20 20:14:44,525 - sec_monitor - INFO - Timestamp: 2025-02-20 20:14:44
+2025-02-20 20:14:45,851 - sec_monitor - INFO - Combine API call successful
+2025-02-20 20:14:46,853 - sec_monitor - INFO - Processing filing 20/21: EPAM
+2025-02-20 20:15:18,876 - sec_monitor - INFO - ==================================================
+2025-02-20 20:15:18,877 - sec_monitor - INFO - Processing first chunk
+2025-02-20 20:15:18,877 - sec_monitor - INFO - Timestamp: 2025-02-20 20:15:18
+2025-02-20 20:15:19,005 - sec_monitor - INFO - token percentage = 23%
+2025-02-20 20:15:19,005 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:15:19,005 - sec_monitor - INFO - Timestamp: 2025-02-20 20:15:19
+2025-02-20 20:15:26,862 - sec_monitor - INFO - API call successful
+2025-02-20 20:15:27,864 - sec_monitor - INFO - Processing filing 21/21: NWS
+2025-02-20 20:15:58,796 - sec_monitor - INFO - ==================================================
+2025-02-20 20:15:58,797 - sec_monitor - INFO - Processing first chunk
+2025-02-20 20:15:58,797 - sec_monitor - INFO - Timestamp: 2025-02-20 20:15:58
+2025-02-20 20:15:58,887 - sec_monitor - INFO - token percentage = 7%
+2025-02-20 20:15:58,888 - sec_monitor - INFO - Making API call - Attempt 1/3
+2025-02-20 20:15:58,888 - sec_monitor - INFO - Timestamp: 2025-02-20 20:15:58
+2025-02-20 20:16:03,277 - sec_monitor - INFO - API call successful
+2025-02-20 20:16:04,278 - sec_monitor - INFO - Fetching supplementary data...
+2025-02-20 20:16:04,626 - sec_monitor - INFO - filing_tickers type: <class 'list'>
+2025-02-20 20:16:04,626 - sec_monitor - INFO - filing_data type: <class 'list'>
+2025-02-20 20:16:11,776 - sec_monitor - INFO - Generating final output...
+2025-02-20 20:16:11,779 - sec_monitor - INFO - Successfully merged 21 new filings with existing JSON
+2025-02-20 20:16:11,779 - sec_monitor - INFO - Cumulative stats - Input words: 14167138, Output words: 3014
+2025-02-20 20:16:11,779 - sec_monitor - INFO - Successfully saved/merged output to output/sec_filings.json
+2025-02-20 20:16:11,779 - sec_monitor - INFO - Processing complete. Stats: {'input_words': 7598419, 'output_words': 1485, 'filings_processed': 21}
