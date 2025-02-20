@@ -1,11 +1,303 @@
 {
-    "timestamp": "Feb 20, 2025 4:33 AM EST",
+    "timestamp": "Feb 20, 2025 12:47 PM EST",
     "stats": {
-        "input_words": 466899,
-        "output_words": 213,
-        "filings_processed": 2
+        "input_words": 6568719,
+        "output_words": 1529,
+        "filings_processed": 22
     },
     "filings": [
+        {
+            "company_name": "Ball Corporation",
+            "stock": "BALL",
+            "wiki_url": "https://en.wikipedia.org/wiki/Ball_Corporation",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T11:12:47-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/9389/000155837025001190/0001558370-25-001190-index.htm",
+            "summary_points": [
+                "1. Ball Corporation's net sales decreased by $267 million year-over-year in 2024 to $11.795 billion, primarily due to lower sales prices and lost volume from a 2023 facility fire.",
+                "2.  The company recorded a $420 million charge in 2024 related to its aluminum cups business impairment and anticipates forming a strategic partnership to deconsolidate this business in early 2025.",
+                "3.  Ball Corporation expects to complete a buyout of its U.K. pension plan by February 20, 2027, resulting in a non-cash settlement charge."
+            ]
+        },
+        {
+            "company_name": "Quanta Services",
+            "stock": "PWR",
+            "wiki_url": "https://en.wikipedia.org/wiki/Quanta_Services",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T10:10:36-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1050915/000105091525000005/0001050915-25-000005-index.htm",
+            "summary_points": [
+                "1. Quanta Services completed three acquisitions in 2024 and 2025 totaling approximately $3.16 billion, including potential contingent payments.",
+                "2.  Quanta's net income increased by 21.5% year-over-year in 2024, exceeding its revenue growth of 13.4%.",
+                "3.  Quanta's cash and cash equivalents decreased significantly to $741.96 million by the end of 2024, from $1,290.25 million at the end of 2023."
+            ]
+        },
+        {
+            "company_name": "Teradyne",
+            "stock": "TER",
+            "wiki_url": "https://en.wikipedia.org/wiki/Teradyne",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T09:55:54-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/97210/000095017025023784/0000950170-25-023784-index.htm",
+            "summary_points": [
+                "1. Teradyne's 10% equity stake in Technoprobe, acquired in May 2024 for $524.1 million, had a $105 million unrealized loss as of December 31, 2024.",
+                "2. Semiconductor Test revenue increased by 8.5% year-over-year in 2024, while Robotics revenue declined by 2.8%.",
+                "3. Teradyne plans to repurchase up to $400 million of its common stock in 2025, but repurchased significantly fewer shares in 2024 ($199.4 million) compared to 2023 ($400.5 million)."
+            ]
+        },
+        {
+            "company_name": "Pool Corporation",
+            "stock": "POOL",
+            "wiki_url": "https://en.wikipedia.org/wiki/Pool_Corporation",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T09:41:28-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/945841/000094584125000008/0000945841-25-000008-index.htm",
+            "summary_points": [
+                "1. Pool Corporation's 2024 net sales decreased by 4% year-over-year to $5.3 billion, primarily due to softer discretionary product sales for new pool construction and remodeling, impacted by macroeconomic conditions.",
+                "2.  Operating income for 2024 decreased by 17% year-over-year to $617.2 million, resulting in an operating margin of 11.6%, down from 13.5% in 2023.",
+                "3.  Pool Corporation projects 2025 diluted earnings per share to be in the range of $11.08 to $11.58, including an estimated $0.08 tax benefit."
+            ]
+        },
+        {
+            "company_name": "Fiserv",
+            "stock": "FI",
+            "wiki_url": "https://en.wikipedia.org/wiki/Fiserv",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T07:34:30-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/0000798354-25-000047-index.htm",
+            "summary_points": [
+                "1. Fiserv's total revenue increased 7% year-over-year in 2024, reaching $20,456 million, but this growth was partially offset by negative impacts from foreign currency exchange rate fluctuations.",
+                "2. A $595 million non-cash impairment charge was recorded in 2024 due to the non-renewal of the Wells Fargo Merchant Services alliance.",
+                "3. Fiserv anticipates completing two acquisitions in Q1 2025 for a total of approximately $360 million."
+            ]
+        },
+        {
+            "company_name": "Baxter International",
+            "stock": "BAX",
+            "wiki_url": "https://en.wikipedia.org/wiki/Baxter_International",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T07:18:24-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/10456/000162828025006558/0001628280-25-006558-index.htm",
+            "summary_points": [
+                "1. Baxter International Inc. completed the sale of its Kidney Care business to Carlyle on January 31, 2025, for approximately $3.4 billion in net, after-tax proceeds, exceeding initial expectations.",
+                "2.  In 2024, Baxter's full-year sales from continuing operations increased by 3% to $10.64 billion, while adjusted diluted EPS from continuing operations reached $1.89, exceeding prior guidance.",
+                "3. Baxter projects full-year 2025 sales growth from continuing operations of 5% to 6% on a reported basis and adjusted earnings from continuing operations, before special items, of $2.45 to $2.55 per diluted share."
+            ]
+        },
+        {
+            "company_name": "Builders FirstSource",
+            "stock": "BLDR",
+            "wiki_url": "https://en.wikipedia.org/wiki/Builders_FirstSource",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T07:00:32-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1316835/000095017025023731/0000950170-25-023731-index.htm",
+            "summary_points": [
+                "1. Builders FirstSource, Inc. reported a year-over-year decrease in net sales of 8.0% for Q4 2024, primarily due to lower core organic sales and commodity deflation, partially offset by acquisitions and an extra selling day.",
+                "2.  For the full year 2024, the company repurchased $1.5 billion of its common stock, reducing total shares outstanding by 6.8%.",
+                "3.  The company forecasts net sales in the range of $16.5 billion to $17.5 billion for 2025, with an Adjusted EBITDA margin of 11.5% to 13.0%, and free cash flow between $600 million and $1.0 billion (assuming commodity prices between $380 and $430 per mbf)."
+            ]
+        },
+        {
+            "company_name": "Quanta Services",
+            "stock": "PWR",
+            "wiki_url": "https://en.wikipedia.org/wiki/Quanta_Services",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T06:59:54-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1050915/000119312525030081/0001193125-25-030081-index.htm",
+            "summary_points": [
+                "1. Quanta Services, Inc. reported record revenues of $23.67 billion for the full year 2024, exceeding 2023's $20.88 billion.",
+                "2.  For the full year ending December 31, 2025, Quanta expects double-digit revenue growth, projecting revenues between $26.60 billion and $27.10 billion.",
+                "3.  As of December 31, 2024, Quanta had a total backlog of $34.54 billion, and anticipates achieving record backlog in 2025."
+            ]
+        },
+        {
+            "company_name": "Walmart",
+            "stock": "WMT",
+            "wiki_url": "https://en.wikipedia.org/wiki/Walmart",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T06:57:00-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000010/0000104169-25-000010-index.htm",
+            "summary_points": []
+        },
+        {
+            "company_name": "Hasbro",
+            "stock": "HAS",
+            "wiki_url": "https://en.wikipedia.org/wiki/Hasbro",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T06:40:18-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/46080/000004608025000008/0000046080-25-000008-index.htm",
+            "summary_points": [
+                "1. Hasbro's full-year 2024 revenue declined 17%, but excluding the eOne divestiture, revenue decreased only 7%.",
+                "2.  Adjusted operating profit increased by $362 million year-over-year in 2024, resulting in an adjusted operating margin of 20.3%, a 10.8-point increase.",
+                "3. Hasbro forecasts slightly increased total revenue for 2025 in constant currency, with an adjusted operating margin projected at 21%-22% and adjusted EBITDA between $1.1 billion and $1.15 billion."
+            ]
+        },
+        {
+            "company_name": "LKQ Corporation",
+            "stock": "LKQ",
+            "wiki_url": "https://en.wikipedia.org/wiki/LKQ_Corporation",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T06:36:54-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569625000012/0001065696-25-000012-index.htm",
+            "summary_points": [
+                "1. LKQ Corp's Q4 2024 revenue decreased by 4.1% year-over-year to $3.4 billion, while full-year 2024 revenue increased by 3.5% to $14.4 billion.",
+                "2.  Diluted earnings per share (EPS) for Q4 2024 was $0.60, down 13% year-over-year, and full-year 2024 diluted EPS was $2.62, a decrease of 25.4% year-over-year.",
+                "3.  Management anticipates 0% to 2% organic revenue growth for parts and services in 2025, with diluted EPS projected to be between $2.91 and $3.21 and adjusted diluted EPS between $3.40 and $3.70."
+            ]
+        },
+        {
+            "company_name": "CenterPoint Energy",
+            "stock": "CNP",
+            "wiki_url": "https://en.wikipedia.org/wiki/CenterPoint_Energy",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T06:16:19-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031025000043/0001130310-25-000043-index.htm",
+            "summary_points": [
+                "1. CenterPoint Energy's 2024 non-GAAP earnings per diluted share increased 8% year-over-year to $1.62.",
+                "2.  The company increased its 10-year capital plan by $500 million to $47.5 billion (as of February 20, 2025), largely for Houston grid resiliency.",
+                "3.  CenterPoint Energy's Houston Electric service territory projects a near 50% increase in electricity demand by 2031."
+            ]
+        },
+        {
+            "company_name": "Targa Resources",
+            "stock": "TRGP",
+            "wiki_url": "https://en.wikipedia.org/wiki/Targa_Resources",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T06:15:09-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1389170/000095017025023713/0000950170-25-023713-index.htm",
+            "summary_points": [
+                "1. Targa Resources Corp. reported record full-year 2024 adjusted EBITDA of $4.1 billion, a 17% increase compared to 2023, driven by record Permian volumes.",
+                "2.  For the fourth quarter of 2024, adjusted EBITDA increased by 5% sequentially, reaching $1.1 billion, primarily due to higher volumes across G&P and L&T systems.",
+                "3. Targa estimates record full-year 2025 adjusted EBITDA between $4.65 billion and $4.85 billion (midpoint representing a 15% increase over 2024),  and plans to increase its annual common dividend to $4.00 per share."
+            ]
+        },
+        {
+            "company_name": "CenterPoint Energy",
+            "stock": "CNP",
+            "wiki_url": "https://en.wikipedia.org/wiki/CenterPoint_Energy",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T06:05:52-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031025000040/0001130310-25-000040-index.htm",
+            "summary_points": []
+        },
+        {
+            "company_name": "NXP Semiconductors",
+            "stock": "NXPI",
+            "wiki_url": "https://en.wikipedia.org/wiki/NXP_Semiconductors",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T06:04:10-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000019/0001413447-25-000019-index.htm",
+            "summary_points": [
+                "1. NXP's 2024 revenue decreased 5% year-over-year to $12.6 billion, while its operating margin fell from 41% to 37%.",
+                "2.  As of February 20, 2025, NXP has $5 billion in cash and cash equivalents, but anticipates $100 million in restructuring charges and faces potential legal losses up to $280 million (after insurance).",
+                "3. NXP plans to spend $1.175 billion on three acquisitions in 2025 and has committed $16.125 billion to VSMC through 2044."
+            ]
+        },
+        {
+            "company_name": "Parker Hannifin",
+            "stock": "PH",
+            "wiki_url": "https://en.wikipedia.org/wiki/Parker_Hannifin",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T06:03:59-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/76334/000119312525030027/0001193125-25-030027-index.htm",
+            "summary_points": [
+                "1. On February 20, 2025, Parker-Hannifin Corp completed a registered offering of \u20ac700 million in 2.900% Senior Notes due 2030, intending to use the proceeds to repay its 1.125% Senior Notes due 2025.",
+                "2.  The offering of \u20ac700 million in Senior Notes, represents a significant financial event for Parker-Hannifin Corp in 2025.",
+                "3. The Notes include provisions for optional redemption prior to February 1, 2030, and mandatory repurchase at 101% of principal plus accrued interest if a change of control and a rating event occur."
+            ]
+        },
+        {
+            "company_name": "Mohawk Industries",
+            "stock": "MHK",
+            "wiki_url": "https://en.wikipedia.org/wiki/Mohawk_Industries",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-19T20:48:17-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/851968/000085196825000023/0000851968-25-000023-index.htm",
+            "summary_points": [
+                "1. Mohawk Industries' 2024 net sales decreased by $300 million compared to 2023,  primarily due to unfavorable pricing and exchange rates.",
+                "2.  The company swung from a $439.5 million net loss in 2023 to a $517.7 million net profit in 2024.",
+                "3.  Mohawk anticipates $65 to $80 million in restructuring costs over 2025 and 2026."
+            ]
+        },
+        {
+            "company_name": "EPAM Systems",
+            "stock": "EPAM",
+            "wiki_url": "https://en.wikipedia.org/wiki/EPAM_Systems",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-19T19:52:50-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201025000004/0001352010-25-000004-index.htm",
+            "summary_points": [
+                "1. EPAM Systems, Inc. reported Q4 2024 revenues of $1.248 billion, a 7.9% year-over-year increase, and full-year 2024 revenues of $4.728 billion, a 0.8% year-over-year increase.",
+                "2.  Full-year 2024 GAAP diluted EPS increased by 11.0% year-over-year to $7.84, while non-GAAP diluted EPS increased by 2.5% to $10.86,  partially offset by a higher effective tax rate due to government incentives.",
+                "3. EPAM expects 2025 full-year revenue growth to be in the range of 10.0% to 14.0% (1.0% to 5.0% organically and in constant currency), with GAAP income from operations as a percentage of revenue between 9.0% and 10.0%, and non-GAAP income from operations between 14.5% and 15.5% of revenue."
+            ]
+        },
+        {
+            "company_name": "News Corp (Class B)",
+            "stock": "NWS",
+            "wiki_url": "https://en.wikipedia.org/wiki/News_Corp",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-19T19:29:27-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470825000094/0001564708-25-000094-index.htm",
+            "summary_points": [
+                "1. News Corp repurchased approximately US$638,772,436.56 worth of Class A and Class B shares as of February 19, 2025, under a US$1 billion stock repurchase program.",
+                "2. On February 19, 2025,  21,016,911 Class A shares and 10,368,673 Class B shares were repurchased at a high price of US$30.31 and US$35.01 respectively.",
+                "3.  News Corp's stock repurchase program, announced in previous filings and ongoing as of February 20, 2025, aims to enhance shareholder value."
+            ]
+        },
+        {
+            "company_name": "CrowdStrike",
+            "stock": "CRWD",
+            "wiki_url": "https://en.wikipedia.org/wiki/CrowdStrike",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-19T18:45:12-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465925015279/0001104659-25-015279-index.htm",
+            "summary_points": [
+                "1. CrowdStrike's Chief Security Officer, Shawn Henry, will retire from his executive role on March 31, 2025, transitioning to Executive Advisor to the CEO.",
+                "2.  As of March 31, 2025, Mr. Henry will no longer participate in CrowdStrike's Corporate Incentive Plan and Leadership Incentive Plan.",
+                "3. This 8-K filing from February 14, 2025, reports the departure of a named executive officer."
+            ]
+        },
         {
             "company_name": "Yum! Brands",
             "stock": "YUM",
