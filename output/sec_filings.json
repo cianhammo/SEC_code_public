@@ -1,0 +1,40 @@
+{
+    "timestamp": "Feb 20, 2025 4:33 AM EST",
+    "stats": {
+        "input_words": 466899,
+        "output_words": 213,
+        "filings_processed": 2
+    },
+    "filings": [
+        {
+            "company_name": "Yum! Brands",
+            "stock": "YUM",
+            "wiki_url": "https://en.wikipedia.org/wiki/Yum!_Brands",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-19T17:26:39-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000013/0001041061-25-000013-index.htm",
+            "summary_points": [
+                "1. Yum! Brands terminated 538 restaurants in Turkey (284 KFC and 254 Pizza Hut) in January 2025 due to franchisee non-compliance, incurring $59 million in charges in 2024 and an additional $18 million in unallocated franchise revenue charges.",
+                "2.  The company faces potential material financial impacts from a $2.5 billion tax dispute ($2.1 billion underpayment plus $418 million in penalties) for fiscal year 2014, currently under appeal, and a potential $130 million penalty in India, pending court hearings in March and April 2025.",
+                "3.  Yum! Brands acquired 216 KFC restaurants in the U.K. and Ireland for $177 million in April 2024 and has future lease payments due from franchisees totaling approximately $650 million as of December 31, 2024."
+            ]
+        },
+        {
+            "company_name": "Pinnacle West",
+            "stock": "PNW",
+            "wiki_url": "https://en.wikipedia.org/wiki/Pinnacle_West_Capital",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-19T17:25:55-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/764622/000076462225000009/0000764622-25-000009-index.htm",
+            "summary_points": [
+                "1. Robert E. Smith was appointed Executive Vice President, Chief Legal Officer and Chief Development Officer of Pinnacle West and APS, effective immediately, while Shirley A. Baum was promoted to Senior Vice President and General Counsel of both companies; Smith plans to retire from his officer positions on August 1, 2025.",
+                "2.  This 8-K filing, dated February 19, 2025, concerns personnel changes at Pinnacle West Capital Corporation and Arizona Public Service Company.",
+                "3. The stated purpose of these personnel changes is to ensure a smooth transition of Mr. Smith's duties and responsibilities before his retirement in August 2025."
+            ]
+        }
+    ]
+}
