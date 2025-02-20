@@ -1461,7 +1461,13 @@ def main(test_mode=False):
             output_path = config.OUTPUT_DIR / ("sec_filings_test.json" if test_mode else "sec_filings.json")
             
             if is_today and not test_mode:
-                merge_with_existing_json(json_output['filings'], config, logger)
+                merge_with_existing_json(
+                json_output['filings'],
+                config,
+                logger,
+                input_word_count,  # We already have this in main()
+                output_word_count  # We already have this in main()
+            )
             else:
                 save_json(json_output, output_path)
                 
