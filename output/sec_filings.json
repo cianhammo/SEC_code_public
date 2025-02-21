@@ -1,11 +1,307 @@
 {
-    "timestamp": "Feb 20, 2025 3:16 PM EST",
+    "timestamp": "Feb 20, 2025 7:45 PM EST",
     "stats": {
-        "input_words": 14167138,
-        "output_words": 3014,
-        "filings_processed": 43
+        "input_words": 26374450,
+        "output_words": 4633,
+        "filings_processed": 68
     },
     "filings": [
+        {
+            "company_name": "Edison International",
+            "stock": "EIX",
+            "wiki_url": "https://en.wikipedia.org/wiki/Edison_International",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T16:11:10-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/827052/000082705225000008/0000827052-25-000008-index.htm",
+            "summary_points": [
+                "1. On February 20, 2025, Edison International's Board of Directors expanded from 11 to 12 members and appointed Jennifer Granholm as an independent director, effective April 1, 2025.",
+                "2.  The press release announcing Granholm's appointment highlights her extensive experience in clean energy, cybersecurity, and grid protection.",
+                "3.  Granholm's compensation will be determined by Edison International and Southern California Edison's Director Compensation Schedule."
+            ]
+        },
+        {
+            "company_name": "First Solar",
+            "stock": "FSLR",
+            "wiki_url": "https://en.wikipedia.org/wiki/First_Solar",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T16:09:21-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000006/0001274494-25-000006-index.htm",
+            "summary_points": [
+                "1. First Solar finalized the sale of $857 million in 2024 Section 45X tax credits (as of February 20, 2025), resulting in a projected post-tax earnings impact of approximately $45 million and a diluted earnings reduction of approximately $0.42 per share for 2024.",
+                "2.  The sale price of the tax credits was $0.955 per $1.00 of credits, with a final gross cash proceeds expected to be approximately $819 million upon completion by February 28, 2025.",
+                "3. First Solar projects achieving 14 gigawatts of annual US manufacturing capacity by 2026, supporting over 30,000 jobs and almost $2.8 billion in labor income, based on a study by the University of Louisiana at Lafayette."
+            ]
+        },
+        {
+            "company_name": "Akamai Technologies",
+            "stock": "AKAM",
+            "wiki_url": "https://en.wikipedia.org/wiki/Akamai_Technologies",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T16:09:16-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622225000007/0001086222-25-000007-index.htm",
+            "summary_points": [
+                "1. Akamai Technologies' Q4 2024 total revenue increased by 3% year-over-year to $1.020 billion, but GAAP net income per diluted share decreased by 12% year-over-year.",
+                "2.  Akamai projects a significant slowdown in year-over-year revenue growth for Q1 2025, with Security and Compute revenue predicted to grow by only 13%, compared to 16% in Q4 2024.",
+                "3.  For the full year 2025, Akamai projects revenue between $4.0 and $4.2 billion, representing 7-9% year-over-year growth, and an operating margin of 26-28%."
+            ]
+        },
+        {
+            "company_name": "ONEOK",
+            "stock": "OKE",
+            "wiki_url": "https://en.wikipedia.org/wiki/Oneok",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T16:05:50-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1039684/000121390025015669/0001213900-25-015669-index.htm",
+            "summary_points": [
+                "1. ONEOK, Inc. amended and restated its existing credit agreement, increasing its revolving unsecured credit facility from $2.5 billion to $3.5 billion and extending the maturity date from June 2028 to February 2030 (as of February 14, 2025).",
+                "2.  The company also has the option to increase the commitments by an additional $1.0 billion, subject to customary conditions.",
+                "3. ONEOK Partners, L.P., ONEOK Partners Intermediate Limited Partnership, Magellan Midstream Partners, L.P., EnLink Midstream Partners, LP, and Elk Merger Sub II, L.L.C. entered into a guaranty agreement guaranteeing ONEOK's obligations under the new credit agreement (as of February 14, 2025)."
+            ]
+        },
+        {
+            "company_name": "Paycom",
+            "stock": "PAYC",
+            "wiki_url": "https://en.wikipedia.org/wiki/Paycom",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T16:05:39-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1590955/000095017025024136/0000950170-25-024136-index.htm",
+            "summary_points": [
+                "1. Paycom's net income for 2024 was $502.0 million, a significant increase from $340.8 million in 2023 and $281.4 million in 2022.",
+                "2. Paycom's wholly-owned subsidiary, Paycom National Trust Bank, received final approval to operate as a national trust bank in 2024.",
+                "3.  Paycom anticipates approximately $392.5 million in free cash flow for 2025."
+            ]
+        },
+        {
+            "company_name": "Insulet Corporation",
+            "stock": "PODD",
+            "wiki_url": "https://en.wikipedia.org/wiki/Dexcom",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T16:04:10-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519725000006/0001145197-25-000006-index.htm",
+            "summary_points": [
+                "1. Insulet Corporation reported full-year 2024 revenue of $2.1 billion, a 22.1% increase year-over-year, exceeding their guidance range of 20% to 21% constant currency growth.",
+                "2.  For the year ending December 31, 2025, Insulet projects revenue growth of 16% to 20% in constant currency, with a gross margin of approximately 70.5% and an operating margin of approximately 16.5%.",
+                "3.  The company's Drug Delivery revenue is projected to decline by 45% to 55% for the year ending December 31, 2025, and by 5% to 10% for the quarter ending March 31, 2025."
+            ]
+        },
+        {
+            "company_name": "Booking Holdings",
+            "stock": "BKNG",
+            "wiki_url": "https://en.wikipedia.org/wiki/Booking_Holdings",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T16:02:55-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000009/0001075531-25-000009-index.htm",
+            "summary_points": [
+                "1. Booking Holdings' full-year 2024 net cash provided by operating activities increased by 13% year-over-year, despite a 46% decrease in Q4 2024 compared to Q4 2023.",
+                "2.  A $796 million loss was recorded in Q4 2024 due to changes in the fair value of an embedded derivative and debt discount amortization related to convertible senior notes.",
+                "3.  Booking Holdings experienced a 17% growth in gross bookings and a 13% year-over-year increase in room nights in 2024."
+            ]
+        },
+        {
+            "company_name": "Applied Materials",
+            "stock": "AMAT",
+            "wiki_url": "https://en.wikipedia.org/wiki/Applied_Materials",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-Q",
+            "filing_time": "2025-02-20T16:02:43-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695125000011/0000006951-25-000011-index.htm",
+            "summary_points": [
+                "1. Applied Materials' net income significantly decreased by $834 million year-over-year to $1,185 million in Q1 2025.",
+                "2. Despite a 7% year-over-year revenue increase to $7,166 million in Q1 2025,  the company faces ongoing government investigations regarding China customer shipments and compliance.",
+                "3. As of January 26, 2025, Applied Materials had $7.6 billion remaining in its common stock repurchase program."
+            ]
+        },
+        {
+            "company_name": "Archer Daniels Midland",
+            "stock": "ADM",
+            "wiki_url": "https://en.wikipedia.org/wiki/Archer_Daniels_Midland",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T16:01:46-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/7084/000000708425000011/0000007084-25-000011-index.htm",
+            "summary_points": [
+                "1. ADM's net earnings decreased by 47% year-over-year in 2024, reaching $2.3 billion.",
+                "2. ADM acquired Vandamme Hugaria Kft for $123 million on January 31, 2025.",
+                "3.  ADM expects to recognize $58 million in unrecognized compensation expense in 2025."
+            ]
+        },
+        {
+            "company_name": "Elevance Health",
+            "stock": "ELV",
+            "wiki_url": "https://en.wikipedia.org/wiki/Elevance_Health",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T15:58:57-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603925000010/0001156039-25-000010-index.htm",
+            "summary_points": [
+                "1. Elevance Health projects a $183 million reduction in 2026 operating revenue due to lower Medicare Advantage Star Ratings (as of October 2024).",
+                "2.  The company's total assets increased by $8 billion year-over-year to $116.889 billion as of February 20, 2025.",
+                "3.  In 2024, Elevance Health completed acquisitions totaling $5.128 billion in cash consideration and repaid $1.649 billion in long-term debt."
+            ]
+        },
+        {
+            "company_name": "Ameriprise Financial",
+            "stock": "AMP",
+            "wiki_url": "https://en.wikipedia.org/wiki/Ameriprise_Financial",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T15:49:46-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002725000013/0000820027-25-000013-index.htm",
+            "summary_points": []
+        },
+        {
+            "company_name": "Camden Property Trust",
+            "stock": "CPT",
+            "wiki_url": "https://en.wikipedia.org/wiki/Camden_Property_Trust",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T15:21:20-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/906345/000090634525000008/0000906345-25-000008-index.htm",
+            "summary_points": [
+                "1. Camden Property Trust's net income plummeted from $403.3 million in 2023 to $163.3 million in 2024 due to lower property sale gains and impairment charges.",
+                "2.  Camden plans to spend between $343 million and $377 million on capital expenditures in 2025.",
+                "3. A new 12-year corporate headquarters lease, commencing Q4 2025, will cost approximately $29.6 million."
+            ]
+        },
+        {
+            "company_name": "Coca-Cola Company (The)",
+            "stock": "KO",
+            "wiki_url": "https://en.wikipedia.org/wiki/The_Coca-Cola_Company",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T15:17:12-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/0000021344-25-000011-index.htm",
+            "summary_points": [
+                "1. Coca-Cola's net income decreased by $65 million in 2024 compared to 2023, reaching $10.65 billion.",
+                "2.  The company's long-term debt fair value increased by $4.6 billion (from $33.4 billion to $38 billion) between December 31, 2023, and December 31, 2024.",
+                "3. Coca-Cola projects a 3.5% increase in its effective tax rate for 2025 due to ongoing IRS litigation, potentially resulting in a $12 billion incremental tax and interest liability."
+            ]
+        },
+        {
+            "company_name": "PPG Industries",
+            "stock": "PPG",
+            "wiki_url": "https://en.wikipedia.org/wiki/PPG_Industries",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T14:40:48-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/79879/000007987925000034/0000079879-25-000034-index.htm",
+            "summary_points": [
+                "1. PPG Industries sold its U.S. and Canada architectural coatings business for $516 million in December 2024, resulting in a $285 million loss.",
+                "2.  Net sales decreased 2% year-over-year in 2024, reaching approximately $15.8 billion.",
+                "3. PPG anticipates $70 million in remaining restructuring costs for 2025 and annual cash outlays for environmental remediation ranging from $20 million to $60 million from 2025 through 2029."
+            ]
+        },
+        {
+            "company_name": "Bunge Global",
+            "stock": "BG",
+            "wiki_url": "https://en.wikipedia.org/wiki/Bunge_Global",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T14:39:04-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1996862/000199686225000008/0001996862-25-000008-index.htm",
+            "summary_points": [
+                "1. Bunge's net income significantly decreased by $1,106 million in 2024 compared to 2023, reaching $1,137 million.",
+                "2.  Bunge's acquisition of Viterra, expected to close within the next few months (as of February 20, 2025), carries a potential $400 million termination fee.",
+                "3.  Bunge sold its 50% stake in BP Bunge Bioenergia in October 2024 for $828 million, but incurred a $95 million liability for indemnifying BP against potential future legal claims."
+            ]
+        },
+        {
+            "company_name": "Humana",
+            "stock": "HUM",
+            "wiki_url": "https://en.wikipedia.org/wiki/Humana",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T14:34:08-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/49071/000004907125000007/0000049071-25-000007-index.htm",
+            "summary_points": [
+                "1. Humana's net income dropped 51.1% year-over-year in 2024, reaching $1.2 billion.",
+                "2.  Humana projects a significant decline in Medicare Advantage membership in 2025, including a 25% drop in 4-star or higher rated plans.",
+                "3.  Humana paid a $90 million settlement in a qui tam lawsuit in August 2024."
+            ]
+        },
+        {
+            "company_name": "Targa Resources",
+            "stock": "TRGP",
+            "wiki_url": "https://en.wikipedia.org/wiki/Targa_Resources",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T14:15:42-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1389170/000095017025023983/0000950170-25-023983-index.htm",
+            "summary_points": [
+                "1. Targa Resources Corp.'s net income attributable to common shareholders increased by 53% year-over-year in 2024, reaching $1,279.1 million.",
+                "2.  The company anticipates potential impacts from the Inflation Reduction Act's corporate alternative minimum tax (CAMT) starting as early as 2026, which may reduce future cash available for distribution.",
+                "3. Targa Resources Corp. settled a lawsuit in April 2024 for $184.8 million and received a proposed $47.8 million civil penalty plus $140 million in required capital improvements from the NMED in December 2024."
+            ]
+        },
+        {
+            "company_name": "Builders FirstSource",
+            "stock": "BLDR",
+            "wiki_url": "https://en.wikipedia.org/wiki/Builders_FirstSource",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T13:46:21-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1316835/000095017025023953/0000950170-25-023953-index.htm",
+            "summary_points": [
+                "1. Builders FirstSource experienced a 4.1% year-over-year decrease in net sales in 2024.",
+                "2.  The company plans to spend between $350 million and $450 million on capital expenditures in 2025.",
+                "3.  Builders FirstSource faces potentially significant uninsured losses from construction defect legal claims."
+            ]
+        },
+        {
+            "company_name": "Thermo Fisher Scientific",
+            "stock": "TMO",
+            "wiki_url": "https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T13:33:52-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000010/0000097745-25-000010-index.htm",
+            "summary_points": [
+                "1. Thermo Fisher plans to spend an additional $200 million on restructuring in 2025.",
+                "2.  The company repurchased $4 billion of its common stock in 2024 and a further $2 billion in early 2025.",
+                "3.  As of March 31st 2025, Thermo Fisher issued CHF 1.1 billion in new Senior Notes with varying maturities."
+            ]
+        },
+        {
+            "company_name": "Nordson Corporation",
+            "stock": "NDSN",
+            "wiki_url": "https://en.wikipedia.org/wiki/Nordson_Corporation",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-Q",
+            "filing_time": "2025-02-20T13:27:56-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/0000072331-25-000032-index.htm",
+            "summary_points": [
+                "1. Nordson Corp.'s net income decreased by 13.6% year-over-year for the three months ended January 31, 2025, reaching $94,652,000.",
+                "2. The provision for doubtful accounts significantly increased to $382,000 in the three months ended January 31, 2025, compared to $80,000 in the same period of 2024.",
+                "3.  As of January 31, 2025, Nordson Corp. had $280,000 and $220,000 outstanding on its Term Loan and Revolving Facilities, respectively."
+            ]
+        },
         {
             "company_name": "Vulcan Materials Company",
             "stock": "VMC",
@@ -22,6 +318,21 @@
             ]
         },
         {
+            "company_name": "Vulcan Materials Company",
+            "stock": "VMC",
+            "wiki_url": "https://en.wikipedia.org/wiki/Vulcan_Materials_Company",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T12:35:11-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600925000005/0001396009-25-000005-index.htm",
+            "summary_points": [
+                "1. Vulcan Materials Company's 2024 total revenues decreased by 5% year-over-year to $7,417.7 million, despite a 3% increase in gross profit.",
+                "2.  The company projects a 19% increase in Adjusted EBITDA for 2025, but anticipates flat to slightly lower pricing in aggregates.",
+                "3.  A $86.6 million non-cash goodwill impairment charge was recorded in 2024, and $89.7 million in amortization expense is anticipated for 2025, decreasing to $81.1 million by 2029."
+            ]
+        },
+        {
             "company_name": "Ametek",
             "stock": "AME",
             "wiki_url": "https://en.wikipedia.org/wiki/Ametek",
@@ -34,6 +345,21 @@
                 "1. Ametek Inc. achieved record sales of $6,941.2 million in 2024, a 5.2% increase year-over-year, despite a 2% organic sales decline.",
                 "2.  The company's net debt-to-capital ratio significantly improved to 15.0% by December 31, 2024, down from 25.0% at the end of 2023.",
                 "3. Ametek Inc. established a $2.3 billion commercial paper program in January 2025 and has a new $1.25 billion share repurchase authorization effective February 7, 2025."
+            ]
+        },
+        {
+            "company_name": "Ametek",
+            "stock": "AME",
+            "wiki_url": "https://en.wikipedia.org/wiki/Ametek",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T12:33:39-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786825000012/0001037868-25-000012-index.htm",
+            "summary_points": [
+                "1. AMETEK's 2024 record sales of $6,941.2 million represent a 5.2% increase year-over-year, despite a 2% organic sales decline, driven instead by acquisitions.",
+                "2.  AMETEK significantly reduced its debt-to-capital ratio to 17.7% in 2024 from 27.5% in 2023.",
+                "3.  As of February 7, 2025, AMETEK approved a $1.25 billion share repurchase authorization and an 11% increase in its quarterly dividend to $0.31 per share."
             ]
         },
         {
@@ -67,6 +393,21 @@
             ]
         },
         {
+            "company_name": "Ball Corporation",
+            "stock": "BALL",
+            "wiki_url": "https://en.wikipedia.org/wiki/Ball_Corporation",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T11:12:47-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/9389/000155837025001190/0001558370-25-001190-index.htm",
+            "summary_points": [
+                "1. Ball Corporation's 2024 net sales decreased by $267 million to $11.795 billion compared to 2023, primarily due to lower sales prices and lost volume from a facility fire.",
+                "2.  A $233 million non-cash impairment charge was recorded in Q4 2024 for the aluminum cups business, and Ball plans to deconsolidate this business through a strategic partnership in early 2025.",
+                "3. Ball Corporation completed the acquisition of Florida Can Manufacturing for $160 million in February 2025."
+            ]
+        },
+        {
             "company_name": "Quanta Services",
             "stock": "PWR",
             "wiki_url": "https://en.wikipedia.org/wiki/Quanta_Services",
@@ -97,6 +438,21 @@
             ]
         },
         {
+            "company_name": "Quanta Services",
+            "stock": "PWR",
+            "wiki_url": "https://en.wikipedia.org/wiki/Quanta_Services",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T10:10:36-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1050915/000105091525000005/0001050915-25-000005-index.htm",
+            "summary_points": [
+                "1. Quanta Services' 2024 revenue increased 13.4% year-over-year to $23,672,795,000,  while a successful resolution of a Peru project dispute added $39.2 million to operating income.",
+                "2.  As of December 31, 2024, Quanta held $16.76 billion in unsatisfied performance obligations, with $9.5 billion in outstanding performance bonds.",
+                "3. Beginning March 31, 2025, Quanta will change its operating segment reporting from three to two segments."
+            ]
+        },
+        {
             "company_name": "Teradyne",
             "stock": "TER",
             "wiki_url": "https://en.wikipedia.org/wiki/Teradyne",
@@ -124,6 +480,21 @@
                 "1. Teradyne's 2024 total revenue increased by 8.5% to $2,819,880,000, driven by Semiconductor Test segment growth, but a stronger U.S. dollar is projected to negatively impact Robotics revenue in 2025.",
                 "2.  As of December 31, 2024, Teradyne's $494.5 million equity method investment in Technoprobe had a $105 million lower fair value ($389.5 million).",
                 "3.  Teradyne's 2024 share repurchases totaled $199.4 million (1.7 million shares), significantly less than the $400.5 million (3.9 million shares) in 2023."
+            ]
+        },
+        {
+            "company_name": "Teradyne",
+            "stock": "TER",
+            "wiki_url": "https://en.wikipedia.org/wiki/Teradyne",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T09:55:54-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/97210/000095017025023784/0000950170-25-023784-index.htm",
+            "summary_points": [
+                "1. Teradyne's 2024 net income increased by 26.2% year-over-year, to a value exceeding $93.6 million, while its equity method investment in Technoprobe suffered a $105 million impairment.",
+                "2.  A predicted strengthening U.S. dollar in 2025 is expected to negatively impact Robotics revenue growth.",
+                "3.  Teradyne plans to repurchase up to $400 million of its common stock in 2025, and  repurchased 1.7 million shares for $199.4 million in 2024, compared to 3.9 million shares for $400.5 million in 2023."
             ]
         },
         {
