@@ -1,11 +1,142 @@
 {
-    "timestamp": "Feb 21, 2025 5:59 AM EST",
+    "timestamp": "Feb 21, 2025 6:51 AM EST",
     "stats": {
-        "input_words": 996209,
-        "output_words": 336,
-        "filings_processed": 5
+        "input_words": 4679865,
+        "output_words": 1135,
+        "filings_processed": 17
     },
     "filings": [
+        {
+            "company_name": "Teledyne Technologies",
+            "stock": "TDY",
+            "wiki_url": "https://en.wikipedia.org/wiki/Teledyne_Technologies",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T19:10:07-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1094285/000109428525000053/0001094285-25-000053-index.htm",
+            "summary_points": [
+                "1. Teledyne's net income decreased by 7.5% year-over-year in 2024, despite a 0.6% increase in net sales.",
+                "2.  A $52.5 million impairment charge to intangible assets was recorded in 2024.",
+                "3.  Teledyne anticipates a $11.9 million reduction in unrecognized tax benefits within the next year (by February 21, 2026)."
+            ]
+        },
+        {
+            "company_name": "News Corp (Class B)",
+            "stock": "NWS",
+            "wiki_url": "https://en.wikipedia.org/wiki/News_Corp",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T18:32:15-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470825000096/0001564708-25-000096-index.htm",
+            "summary_points": [
+                "1. News Corp repurchased approximately US$639,359,081.07 worth of Class A and Class B shares as of February 20, 2025, under a US$1 billion stock repurchase program.",
+                "2. On February 20, 2025, 21,028,305 Class A shares and 10,374,379 Class B shares were repurchased, with the highest price paid for Class A shares being US$30.69 and for Class B shares being US$35.25.",
+                "3.  News Corp's future stock repurchases are subject to market conditions, the market price of the company's stock, and other factors."
+            ]
+        },
+        {
+            "company_name": "Alliant Energy",
+            "stock": "LNT",
+            "wiki_url": "https://en.wikipedia.org/wiki/Alliant_Energy",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T18:08:03-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000012/0000352541-25-000012-index.htm",
+            "summary_points": [
+                "1. Alliant Energy Corporation's GAAP earnings per share decreased to $2.69 in 2024 from $2.78 in 2023, while their non-GAAP earnings per share increased to $3.04 from $2.82.",
+                "2.  The Iowa Utilities Commission authorized $185 million in annual base rate increases for Interstate Power & Light Company's retail electric and gas services in September 2024, resulting in a $0.21 per share increase in 2024.",
+                "3. Alliant Energy affirmed its 2025 ongoing earnings guidance range of $3.15-$3.25 per share on February 20, 2025,  but this guidance excludes potential impacts from several significant factors including non-cash valuation adjustments, regulatory charges, and changes in laws or policies."
+            ]
+        },
+        {
+            "company_name": "Cadence Design Systems",
+            "stock": "CDNS",
+            "wiki_url": "https://en.wikipedia.org/wiki/Cadence_Design_Systems",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T17:44:49-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/813672/000081367225000024/0000813672-25-000024-index.htm",
+            "summary_points": [
+                "1. Cadence's effective tax rate increased significantly from 18.8% in fiscal 2023 to 24.4% in fiscal 2024, and is projected to be around 25% in fiscal 2025.",
+                "2.  Cadence repurchased $550 million of its common stock in fiscal 2024, leaving $800 million remaining in its share repurchase authorization as of December 31, 2024.",
+                "3. Cadence anticipates increased interest expense in fiscal 2025 due to higher debt levels."
+            ]
+        },
+        {
+            "company_name": "Live Nation Entertainment",
+            "stock": "LYV",
+            "wiki_url": "https://en.wikipedia.org/wiki/Live_Nation_Entertainment",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T17:39:17-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1335258/000133525825000028/0001335258-25-000028-index.htm",
+            "summary_points": [
+                "1. Live Nation's 2024 revenue increased by 2% to $23.2 billion, despite a 24% decline in operating income due to $455 million in Astroworld-related losses.",
+                "2.  As of December 31, 2024, Live Nation had $6.438 billion in long-term debt and faces an ongoing antitrust lawsuit that could lead to the divestiture of Ticketmaster.",
+                "3.  Live Nation anticipates $223.3 million in amortization expense for finite-lived intangible assets in 2025, decreasing in subsequent years."
+            ]
+        },
+        {
+            "company_name": "Insulet Corporation",
+            "stock": "PODD",
+            "wiki_url": "https://en.wikipedia.org/wiki/Dexcom",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T17:38:06-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519725000008/0001145197-25-000008-index.htm",
+            "summary_points": [
+                "1. On February 17, 2025, Insulet Corporation revised its Non-Qualified Stock Option Agreement, Restricted Stock Unit Agreement, and Performance Stock Unit Agreement, primarily to update compensation recoupment language and international tax and securities law compliance provisions.",
+                "2.  The filing does not provide any meaningful numerical comparisons relevant to financial performance.",
+                "3. The agreements include clawback provisions requiring employees to repay compensation if the company is forced to issue accounting restatements due to employee misconduct."
+            ]
+        },
+        {
+            "company_name": "Insulet Corporation",
+            "stock": "PODD",
+            "wiki_url": "https://en.wikipedia.org/wiki/Dexcom",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T17:36:54-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519725000007/0001145197-25-000007-index.htm",
+            "summary_points": []
+        },
+        {
+            "company_name": "Johnson & Johnson",
+            "stock": "JNJ",
+            "wiki_url": "https://en.wikipedia.org/wiki/Johnson_%26_Johnson",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T17:26:35-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/200406/000119312525030851/0001193125-25-030851-index.htm",
+            "summary_points": [
+                "1. On February 20, 2025, Johnson & Johnson completed five public offerings of notes totaling $5 billion, with maturities ranging from 2027 to 2035 and interest rates from 4.5% to 5%.",
+                "2.  The offering of the 5.000% Notes due 2035 had the largest aggregate principal amount at $1,250,000,000.",
+                "3.  Johnson & Johnson intends to use the net proceeds from this debt offering, along with other funds, to finance its acquisition of Intra-Cellular Therapies, Inc."
+            ]
+        },
+        {
+            "company_name": "Johnson & Johnson",
+            "stock": "JNJ",
+            "wiki_url": "https://en.wikipedia.org/wiki/Johnson_%26_Johnson",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T17:26:35-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/200406/000119312525030851/0001193125-25-030851-index.htm",
+            "summary_points": [
+                "1. On February 20, 2025, Johnson & Johnson completed five public offerings of notes totaling $5 billion.",
+                "2.  The five offerings consisted of  $750,000,000 of 4.500% Notes due 2027, $750,000,000 of 4.550% Notes due 2028, $1,000,000,000 of 4.700% Notes due 2030, $1,250,000,000 of 4.850% Notes due 2032, and $1,250,000,000 of 5.000% Notes due 2035.",
+                "3.  The net proceeds, along with other funds, will be used to finance the acquisition of Intra-Cellular Therapies, Inc., subject to regulatory and stockholder approvals."
+            ]
+        },
         {
             "company_name": "Sherwin-Williams",
             "stock": "SHW",
@@ -22,33 +153,18 @@
             ]
         },
         {
-            "company_name": "Booking Holdings",
-            "stock": "BKNG",
-            "wiki_url": "https://en.wikipedia.org/wiki/Booking_Holdings",
+            "company_name": "Sherwin-Williams",
+            "stock": "SHW",
+            "wiki_url": "https://en.wikipedia.org/wiki/Sherwin-Williams",
             "change_percent": 0,
             "price": 0,
             "filing_type": "10-K",
-            "filing_time": "2025-02-20T17:12:27-05:00",
-            "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000010/0001075531-25-000010-index.htm",
+            "filing_time": "2025-02-20T17:24:24-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/0000089800-25-000030-index.htm",
             "summary_points": [
-                "1. Booking Holdings' net income significantly increased by $1,593 million year-over-year to $5,882 million in 2024.",
-                "2.  A \u20ac413 million ($530 million) fine was levied against Booking.com by the CNMC in Spain in 2024, prompting an appeal.",
-                "3. Booking Holdings anticipates lower operating income in Q1 2025 compared to Q1 2024, primarily due to Easter timing and unfavorable foreign exchange rates."
-            ]
-        },
-        {
-            "company_name": "Johnson & Johnson",
-            "stock": "JNJ",
-            "wiki_url": "https://en.wikipedia.org/wiki/Johnson_%26_Johnson",
-            "change_percent": 0,
-            "price": 0,
-            "filing_type": "8-K",
-            "filing_time": "2025-02-20T17:26:35-05:00",
-            "filing_url": "https://www.sec.gov/Archives/edgar/data/200406/000119312525030851/0001193125-25-030851-index.htm",
-            "summary_points": [
-                "1. On February 20, 2025, Johnson & Johnson completed five public offerings of notes totaling $5 billion, with maturities ranging from 2027 to 2035 and interest rates from 4.5% to 5%.",
-                "2.  The offering of the 5.000% Notes due 2035 had the largest aggregate principal amount at $1,250,000,000.",
-                "3.  Johnson & Johnson intends to use the net proceeds from this debt offering, along with other funds, to finance its acquisition of Intra-Cellular Therapies, Inc."
+                "1. Sherwin-Williams acquired BASF's Brazilian decorative paints business for $1.15 billion in February 2025, pending regulatory approval.",
+                "2.  The company anticipates a $40 million increase in interest expense in 2025 due to higher interest rates and new headquarters costs.",
+                "3.  Sherwin-Williams' diluted net income per share increased by 14.1% to $10.55 in 2024 compared to $9.25 in 2023."
             ]
         },
         {
@@ -67,6 +183,21 @@
             ]
         },
         {
+            "company_name": "American International Group",
+            "stock": "AIG",
+            "wiki_url": "https://en.wikipedia.org/wiki/American_International_Group",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T17:21:47-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/5272/000000527225000014/0000005272-25-000014-index.htm",
+            "summary_points": [
+                "1. On February 19, 2025, American International Group, Inc. appointed Juan Perez, Salesforce's Executive Vice President and CIO, as an independent director, increasing the Board's size to 12 members.",
+                "2.  The SEC filing does not include any meaningful numerical comparisons relevant to financial performance or operational changes.",
+                "3. Mr. Perez's appointment to the board is expected to contribute to AIG's data and digital strategy, particularly in areas such as artificial intelligence and digital transformation."
+            ]
+        },
+        {
             "company_name": "HCA Healthcare",
             "stock": "HCA",
             "wiki_url": "https://en.wikipedia.org/wiki/HCA_Healthcare",
@@ -79,6 +210,51 @@
                 "1. On February 20, 2025, HCA Healthcare, Inc. refinanced its $8 billion in senior secured credit facilities with an $8 billion senior unsecured revolving credit facility, maturing in five years.",
                 "2.  The outstanding balance on the senior secured credit facilities was $4.738 billion as of December 31, 2024, and these were fully repaid before being terminated.",
                 "3.  The new credit agreement includes a quarterly-tested financial covenant limiting the leverage ratio to 4.50:1.00, with a potential step-up to 5.00:1.00 following a material acquisition."
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "stock": "HCA",
+            "wiki_url": "https://en.wikipedia.org/wiki/HCA_Healthcare",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "8-K",
+            "filing_time": "2025-02-20T17:15:04-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/860730/000119312525030833/0001193125-25-030833-index.htm",
+            "summary_points": [
+                "1. On February 20, 2025, HCA Healthcare, Inc. refinanced its $8 billion in senior secured credit facilities, replacing them with an $8 billion senior unsecured revolving credit facility maturing on February 20, 2030.",
+                "2.  The company's total revolving credit commitments increased from $4.738 billion to $8 billion as of February 20, 2025.",
+                "3.  The new credit agreement includes a quarterly leverage ratio covenant that cannot exceed 4.50:1.00, with an optional step-up to 5.00:1.00 after a material acquisition."
+            ]
+        },
+        {
+            "company_name": "Booking Holdings",
+            "stock": "BKNG",
+            "wiki_url": "https://en.wikipedia.org/wiki/Booking_Holdings",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T17:12:27-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000010/0001075531-25-000010-index.htm",
+            "summary_points": [
+                "1. Booking Holdings' net income significantly increased by $1,593 million year-over-year to $5,882 million in 2024.",
+                "2.  A \u20ac413 million ($530 million) fine was levied against Booking.com by the CNMC in Spain in 2024, prompting an appeal.",
+                "3. Booking Holdings anticipates lower operating income in Q1 2025 compared to Q1 2024, primarily due to Easter timing and unfavorable foreign exchange rates."
+            ]
+        },
+        {
+            "company_name": "Booking Holdings",
+            "stock": "BKNG",
+            "wiki_url": "https://en.wikipedia.org/wiki/Booking_Holdings",
+            "change_percent": 0,
+            "price": 0,
+            "filing_type": "10-K",
+            "filing_time": "2025-02-20T17:12:27-05:00",
+            "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000010/0001075531-25-000010-index.htm",
+            "summary_points": [
+                "1. Booking Holdings' Transformation Program, launched in November 2024, aims for $400-$450 million in annual run-rate savings within three years, but will incur equal restructuring costs.",
+                "2.  Despite 11% year-over-year revenue growth in 2024, Booking Holdings predicts lower operating income in the first quarter of 2025 due to Easter timing and unfavorable currency exchange rates.",
+                "3. A $20 billion share repurchase program was authorized in January 2025, subject to a 1% excise tax under the Inflation Reduction Act of 2022."
             ]
         }
     ]
